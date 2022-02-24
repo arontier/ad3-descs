@@ -6,12 +6,12 @@
 # Outputs
 
 * model_1.pdb : Predicted Protein Structure (RCSB PDB Format)
-* model_1.contact.png
-* model_1.contact.tsv
-* model_all.plddt.val.tsv
-* query.1.fa
+* model_1.contact.png : It is a graph of the Residue-Residue Contact prediction result.
+* model_1.contact.tsv : Contains Residue-Residue Contact prediction results.
+* model_all.plddt.val.tsv :
+* query.1.fa : Protein sequence used to predict structure.
 * query.1.pdb_hits.hhr.gz
-* query.1.uniref90_hits.sto.gz
+* query.1.uniref90_hits.sto.gz 
 * query.1.uniref90_hits.txt.gz
 
 
