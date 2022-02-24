@@ -5,6 +5,16 @@
 
 # Outputs
 
+* model_1.pdb : Predicted Protein Structure (RCSB PDB Format)
+* model_1.contact.png
+* model_1.contact.tsv
+* model_all.plddt.val.tsv
+* query.1.fa
+* query.1.pdb_hits.hhr.gz
+* query.1.uniref90_hits.sto.gz
+* query.1.uniref90_hits.txt.gz
+
+
 # References
 
 1. Heo, L. & Feig, M. Multi-State Modeling of G-protein Coupled Receptors at Experimental Accuracy. Biorxiv 2021.11.26.470086 (2021) doi:10.1101/2021.11.26.470086.
