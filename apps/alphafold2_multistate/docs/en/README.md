@@ -1,6 +1,6 @@
 # Description 
 
-MULTISTATE MODELING is a method for predicting protein structure using Jumper J. et al method[1].
+Multi-State MODELING is a method for predicting protein structure using Jumper J. et al method[1].
 To generate various structural conformations of protein, Heo, L. and Feig, M. method was used.
 
 
