@@ -1,5 +1,3 @@
-번역할 것
-
 # 법적 고지
 
 The data downloaded from [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/download) and used on this site is licensed under Creative Commons Attribution 4.0 ([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)) terms. This site uses the data in accordance to the publisher's [Terms of Use](https://www.ebi.ac.uk/about/terms-of-use/) with good science practice. And the AlphaFold method paper is cited here:  
