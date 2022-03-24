@@ -1,7 +1,6 @@
 # Description
-
-A-Prot is a new protein 3D structure modeling method using MSA Transformer, one of the state-of-the-art protein language models. For a given MSA, an MSA feature tensor and row attention maps are extracted and converted into 2D residue-residue distance and dihedral angle predictions. We demonstrated that A-Prot predicts long-range contacts better than the existing methods. Additionally, we modeled the 3D structures of the free modeling and hard template-based modeling targets of CASP14. The assessment shows that the A-Prot models are more accurate than most top server groups of CASP14. These results imply that A-Prot captures evolutionary and structural information of proteins accurately with relatively low computational cost. Thus, A-Prot can provide a clue for the development of other protein property prediction methods.
-
+ 
+단백질 구조 예측 파이프라인입니다. 단백질의 서열정보를 입력받아 multiple sequence alignment, contact maps, structure 모델링 과정을 통해 단백질의 3차원 구조를 예측합니다. 그리고 예측된 구조를 이용하여 저분자 화합물이 결합할 수 있는 위치를 예측합니다.
 
 # Inputs
 
