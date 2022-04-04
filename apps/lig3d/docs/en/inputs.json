@@ -1,0 +1,7 @@
+{
+  "3. Select Compound File": {
+    "append": [
+      {"text": "You can copy and paste your compounds in SMILES format, or draw and import them using the editor on the right below, or upload files below in SMILES format containing your compounds." }
+    ]
+  }
+}
