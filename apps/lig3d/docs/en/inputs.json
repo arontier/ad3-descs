@@ -1,26 +1,5 @@
 {
-  "type": "app",
-  "inputs": [
-    {
-      "text": "1. Describe Your Job",
-      "style": "subtitle",
-      "alert": [],
-      
-      "type": "string",
-      "required": true,
-      "hint": ""
-    },
-    {
-      "text": "2. Name Your Job",
-      "style": "subtitle",
-      "alert": []
-    },
-    {
-      "text": "3. Select Compound File",
-      "style": "subtitle",
-      "alert": [
-        {"text": "You can copy and paste your compounds in SMILES format, or draw and import them using the editor on the right below, or upload files below in SMILES format containing your compounds." }
-      ]
-    }
-  ]
+  "3. Select Compound File": {
+    "text": "You can copy and paste your compounds in SMILES format, or draw and import them using the editor on the right below, or upload files below in SMILES format containing your compounds." 
+  }
 }
