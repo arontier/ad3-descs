@@ -1,5 +1,14 @@
-{
+{ 
+  "1. Name Your Job": {
+    "type": "subtitle-b",
+    "append": []
+  },
+  "2. Describe Your Job": {
+    "type": "subtitle-b",
+    "append": []
+  },
   "3. Select Compound File": {
+    "type": "subtitle-b",
     "append": [
       {"text": "You can copy and paste your compounds in SMILES format, or draw and import them using the editor on the right below, or upload files below in SMILES format containing your compounds." }
     ]
