@@ -1,0 +1,7 @@
+{
+  "Sequence Selection": {
+    "prologue": {
+      "text": "FASTA sequences can be added by these methods: selecting sequence from TARGET, typing sequence directly in *Sequence Text*, or *dropping file* into the table. If sequences are added by typing or dropping, they can be edited after addition."
+    }
+  }
+}
