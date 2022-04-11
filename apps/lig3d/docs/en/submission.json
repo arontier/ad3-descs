@@ -17,7 +17,7 @@
     "The value of 'text' field under 'prologue' and 'epilogue' is a paragraph to be shown as supportive description.",
     "Markdown syntax is supported for the value of 'text' field."
   ],
-  "3. Select Compound File": {
+  "3-2. Query Compounds": {
     "prologue": {
       "text": "You can **copy and paste** your compounds in SMILES format, or **draw and import** them using the editor on the right below, or **upload** files below in SMILES format containing your compounds."
     }
