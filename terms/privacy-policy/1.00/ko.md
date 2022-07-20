@@ -1,118 +1,114 @@
-번역할 것
+# 개인정보 처리방침
 
-# Privacy Policy
+이 개인정보 처리방침(이하 "정책")은 [ad3.io](https://www.ad3.io) 웹 사이트 및 관련 제품 및 서비스(이하 "서비스")를 수집, 보호 및 사용하는 방법에 대해 설명합니다. 또한 귀하의 개인 정보 사용과 관련하여 귀하가 사용할 수있는 선택 사항과 귀하가 이 정보에 액세스하고 업데이트 할 수있는 방법에 대해 설명합니다. 이 정책은 귀하("사용자", "귀하" 또는 "귀하의")와 이 웹사이트 운영자("운영자", "당사", "당사" 또는 "당사") 간의 법적 구속력이 있는 계약입니다. 웹 사이트 및 서비스에 액세스하고 사용함으로써 귀하는 본 계약의 조건을 읽고 이해했으며 이에 구속되는 데 동의함을 인정합니다. 이 정책은 우리가 소유하거나 통제하지 않는 회사 또는 우리가 고용하거나 관리하지 않는 개인의 관행에는 적용되지 않습니다.
+## 정보 자동 수집
 
-This privacy policy ("Policy") describes how the personally identifiable information ("Personal Information") you may provide on the [ad3.io](https://www.ad3.io) website ("Website" or "Service") and any of its related products and services (collectively, "Services") is collected, protected and used. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy is a legally binding agreement between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). By accessing and using the Website and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+귀하가 웹사이트를 열면 당사 서버는 귀하의 브라우저가 보내는 정보를 자동으로 기록합니다. 이 데이터에는 장치의 IP 주소, 브라우저 유형 및 버전, 운영 체제 유형 및 버전, 언어 기본 설정 또는 웹사이트 및 서비스를 방문하기 전에 방문했던 웹페이지, 방문한 웹사이트 및 서비스의 페이지, 해당 페이지에서 보낸 시간, 웹사이트에서 검색한 정보, 액세스 시간 및 날짜, 기타 통계.
 
-## Automatic collection of information
+자동으로 수집된 정보는 잠재적인 남용 사례를 식별하고 웹사이트 및 서비스의 사용 및 트래픽에 관한 통계 정보를 설정하는 데만 사용됩니다. 이 통계 정보는 시스템의 특정 사용자를 식별하는 방식으로 집계되지 않습니다.
+## 개인정보 수집
 
-When you open the Website, our servers automatically record information that your browser sends. This data may include information such as your device's IP address, browser type and version, operating system type and version, language preferences or the webpage you were visiting before you came to the Website and Services, pages of the Website and Services that you visit, the time spent on those pages, information you search for on the Website, access times and dates, and other statistics.
+귀하는 귀하가 누구인지 알려주거나 누군가 귀하를 식별 가능한 특정 개인으로 식별할 수 있는 정보를 공개하지 않고도 웹사이트 및 서비스에 액세스하고 사용할 수 있습니다. 그러나 웹사이트의 일부 기능을 사용하려는 경우 특정 개인 정보(예: 이름 및 전자 메일 주소)를 제공하라는 요청을 받을 수 있습니다. 당사는 귀하가 계정을 생성하거나 웹사이트에서 온라인 양식을 작성할 때 의도적으로 당사에 제공한 모든 정보를 수신 및 저장합니다. 필요한 경우 이 정보에는 다음이 포함될 수 있습니다.
 
-Information collected automatically is used only to identify potential cases of abuse and establish statistical information regarding the usage and traffic of the Website and Services. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
+* 이메일 주소, 주소 등의 연락처 정보
+* 사용자 이름, 고유 사용자 ID, 비밀번호 등의 계정 세부 정보
 
-## Collection of personal information
+당사가 수집하는 정보 중 일부는 웹사이트 및 서비스를 통해 귀하로부터 직접 제공됩니다. 귀하는 당사에 귀하의 개인 정보를 제공하지 않도록 선택할 수 있지만 웹사이트의 일부 기능을 이용하지 못할 수도 있습니다. 필수 정보가 무엇인지 확실하지 않은 사용자는 당사에 문의하십시오.
 
-You can access and use the Website and Services without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. If, however, you wish to use some of the features on the Website, you may be asked to provide certain Personal Information (for example, your name and e-mail address). We receive and store any information you knowingly provide to us when you create an account, or fill any online forms on the Website. When required, this information may include the following:
+## 수집된 정보의 이용 및 처리
 
-*   Contact information such as email address, address, etc.
-*   Account details such as user name, unique user ID, password, etc.
+웹사이트 및 서비스를 귀하에게 제공하거나 법적 의무를 이행하기 위해 당사는 특정 개인 정보를 수집하고 사용해야 합니다. 요청한 정보를 제공하지 않으면 요청한 제품이나 서비스를 제공하지 못할 수 있습니다. 귀하로부터 수집한 정보는 다음과 같은 목적으로 사용될 수 있습니다.
 
-Some of the information we collect is directly from you via the Website and Services. You can choose not to provide us with your Personal Information, but then you may not be able to take advantage of some of the features on the Website. Users who are uncertain about what information is mandatory are welcome to contact us.
+* 사용자 계정 생성 및 관리
+* 행정정보 전송
+* 문의에 응답하고 지원을 제공
+* 사용자 피드백 요청
+* 사용자 경험 향상
+* 이용약관 및 정책 시행
+* 남용 및 악의적인 사용자로부터 보호
+* 법적 요청에 대응하고 피해 방지
+* 웹사이트 및 서비스 운영 및 운영
 
-## Use and processing of collected information
+귀하의 개인 정보 처리는 귀하가 웹 사이트 및 서비스와 상호 작용하는 방식, 귀하가 세계에 위치한 곳 및 다음 중 하나가 적용되는 경우에 따라 다릅니다. (i) 귀하가 하나 이상의 특정 목적에 대해 동의했습니다. 그러나 개인 정보 처리가 캘리포니아 소비자 개인 정보 보호법 또는 유럽 데이터 보호법의 적용을 받는 경우에는 적용되지 않습니다. (ii) 귀하와의 계약 이행 및/또는 계약 전 의무를 위해 정보 제공이 필요합니다. (iii) 귀하가 적용되는 법적 의무를 준수하기 위해 처리가 필요합니다. (iv) 처리가 공익을 위해 수행되거나 당사에 부여된 공식 권한의 행사와 관련이 있습니다. (v) 당사 또는 제3자가 추구하는 정당한 이익을 위해 처리가 필요한 경우.
 
-In order to make the Website and Services available to you, or to meet a legal obligation, we need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:
+일부 법률에 따라 당사는 동의 또는 아래의 법적 근거에 의존하지 않고 귀하가 그러한 처리에 반대할 때까지(옵트아웃하여) 정보를 처리하도록 허용될 수 있습니다. 어떤 경우에도 처리에 적용되는 특정 법적 근거, 특히 개인 정보 제공이 법적 또는 계약상의 요구 사항인지 또는 계약 체결에 필요한 요구 사항인지 여부를 기꺼이 밝히겠습니다.
 
-*   Create and manage user accounts
-*   Send administrative information
-*   Respond to inquiries and offer support
-*   Request user feedback
-*   Improve user experience
-*   Enforce terms and conditions and policies
-*   Protect from abuse and malicious users
-*   Respond to legal requests and prevent harm
-*   Run and operate the Website and Services
+## 정보 관리
 
-Processing your Personal Information depends on how you interact with the Website and Services, where you are located in the world and if one of the following applies: (i) you have given your consent for one or more specific purposes; this, however, does not apply, whenever the processing of Personal Information is subject to California Consumer Privacy Act or European data protection law; (ii) provision of information is necessary for the performance of an agreement with you and/or for any pre-contractual obligations thereof; (iii) processing is necessary for compliance with a legal obligation to which you are subject; (iv) processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.
+귀하는 당사가 귀하에 대해 가지고 있는 특정 개인 정보를 삭제할 수 있습니다. 귀하가 삭제할 수 있는 개인 정보는 웹사이트 및 서비스가 변경됨에 따라 변경될 수 있습니다. 그러나 귀하가 개인 정보를 삭제할 때 당사는 당사의 계열사 및 파트너에 대한 의무를 준수하는 데 필요한 기간과 아래에 설명된 목적을 위해 수정되지 않은 개인 정보의 사본을 당사 기록에 유지할 수 있습니다.
 
-Note that under some legislations we may be allowed to process information until you object to such processing (by opting out), without having to rely on consent or any other of the following legal bases below. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+## 정보 공개
 
-## Managing information
+요청한 서비스에 따라 또는 거래를 완료하거나 귀하가 요청한 서비스를 제공하는 데 필요한 경우 당사는 귀하의 동의하에 당사와 협력하는 신뢰할 수 있는 제3자, 당사가 지원을 위해 의존하는 기타 계열사 및 자회사와 귀하의 정보를 공유할 수 있습니다. 귀하가 사용할 수 있는 웹사이트 및 서비스의 운영. 당사는 제휴되지 않은 제3자와 개인 정보를 공유하지 않습니다. 이러한 서비스 제공자는 당사를 대신하여 서비스를 수행하거나 법적 요구 사항을 준수하는 데 필요한 경우를 제외하고 귀하의 정보를 사용하거나 공개할 권한이 없습니다. 당사는 이러한 목적을 위해 개인 정보 보호 정책이 당사와 일치하거나 개인 정보에 관한 당사 정책을 준수하는 데 동의한 제3자와만 귀하의 개인 정보를 공유할 수 있습니다. 이러한 제3자는 지정된 기능을 수행하기 위해서만 필요한 개인 정보를 제공받으며, 당사는 이들이 자체 마케팅 또는 기타 목적으로 개인 정보를 사용하거나 공개하는 것을 승인하지 않습니다.
 
-You are able to delete certain Personal Information we have about you. The Personal Information you can delete may change as the Website and Services change. When you delete Personal Information, however, we may maintain a copy of the unrevised Personal Information in our records for the duration necessary to comply with our obligations to our affiliates and partners, and for the purposes described below.
+## 정보 보유
 
-## Disclosure of information
+당사는 법적 의무를 준수하고, 분쟁을 해결하고, 계약을 시행하는 데 필요한 기간 동안 귀하의 개인 정보를 보유 및 사용합니다. 단, 법적으로 더 긴 보유 기간이 요구되거나 허용되지 않는 한. 당사는 귀하가 업데이트하거나 삭제한 후 귀하의 개인 정보에서 파생되거나 통합된 집계 데이터를 사용할 수 있지만 귀하를 개인적으로 식별하는 방식으로는 사용할 수 없습니다. 보유 기간이 만료되면 개인 정보는 삭제됩니다. 따라서 열람권, 소거권리, 정정권, 정보이동권 등은 보유기간 경과 후에는 행사할 수 없습니다.
 
-Depending on the requested Services or as necessary to complete any transaction or provide any service you have requested, we may share your information with your consent with our trusted third parties that work with us, any other affiliates and subsidiaries we rely upon to assist in the operation of the Website and Services available to you. We do not share Personal Information with unaffiliated third parties. These service providers are not authorized to use or disclose your information except as necessary to perform services on our behalf or comply with legal requirements. We may share your Personal Information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to Personal Information. These third parties are given Personal Information they need only in order to perform their designated functions, and we do not authorize them to use or disclose Personal Information for their own marketing or other purposes.
+## 정보 이전
 
-## Retention of information
+귀하의 위치에 따라 데이터 전송은 귀하의 정보를 귀하의 국가가 아닌 다른 국가로 전송 및 저장하는 것을 포함할 수 있습니다. 귀하는 유럽 연합 이외의 국가 또는 국제 공공법의 적용을 받는 국제 조직 또는 UN과 같이 둘 이상의 국가가 설립한 국제 조직으로 정보를 전송하는 법적 근거와 다음 국가에서 취한 보안 조치에 대해 배울 수 있습니다. 귀하의 정보를 보호합니다. 그러한 양도가 발생하는 경우 이 정책의 관련 섹션을 확인하여 자세한 내용을 확인하거나 연락처 섹션에 제공된 정보를 사용하여 당사에 문의할 수 있습니다.
 
-We will retain and use your Personal Information for the period necessary to comply with our legal obligations, resolve disputes, and enforce our agreements unless a longer retention period is required or permitted by law. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Once the retention period expires, Personal Information shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after the expiration of the retention period.
+## 사용자의 권리
 
-## Transfer of information
+귀하는 당사가 처리하는 귀하의 정보와 관련하여 특정 권리를 행사할 수 있습니다. 특히, 귀하는 다음을 수행할 권리가 있습니다. (i) 귀하는 이전에 귀하의 정보 처리에 동의한 경우 동의를 철회할 권리가 있습니다. (ii) 귀하는 동의 이외의 법적 근거로 처리가 수행되는 경우 귀하의 정보 처리에 반대할 권리가 있습니다. (iii) 귀하는 정보가 당사에 의해 처리되고 있는지 확인하고, 처리의 특정 측면에 대한 공개를 얻고, 처리 중인 정보의 사본을 얻을 권리가 있습니다. (iv) 귀하는 정보의 정확성을 확인하고 업데이트 또는 수정을 요청할 권리가 있습니다. (v) 귀하는 특정 상황에서 귀하의 정보 처리를 제한할 권리가 있으며, 이 경우 당사는 귀하의 정보를 저장하는 것 이외의 목적으로 귀하의 정보를 처리하지 않습니다. (vi) 귀하는 특정 상황에서 당사로부터 귀하의 개인 정보를 삭제할 권리가 있습니다. (vii) 귀하는 귀하의 정보를 구조화되고 일반적으로 사용되며 기계가 읽을 수 있는 형식으로 수신할 권리가 있으며, 기술적으로 가능한 경우 방해 없이 다른 컨트롤러에게 정보를 전송할 수 있습니다. 이 조항은 귀하의 정보가 자동화된 수단에 의해 처리되고 처리가 귀하의 동의, 귀하가 속한 계약 또는 이에 대한 사전 계약 의무를 기반으로 하는 경우에 적용됩니다.
 
-Depending on your location, data transfers may involve transferring and storing your information in a country other than your own. You are entitled to learn about the legal basis of information transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by us to safeguard your information. If any such transfer takes place, you can find out more by checking the relevant sections of this Policy or inquire with us using the information provided in the contact section.
+## 처리에 반대할 권리
 
-## The rights of users
+개인 정보가 공익을 위해 처리되는 경우, 당사에 부여된 공식 권한의 행사 또는 당사가 추구하는 정당한 이익을 위해 귀하는 정당화하기 위해 귀하의 특정 상황과 관련된 근거를 제공함으로써 그러한 처리에 반대할 수 있습니다. 반대.
 
-You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following: (i) you have the right to withdraw consent where you have previously given your consent to the processing of your information; (ii) you have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent; (iii) you have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing; (iv) you have the right to verify the accuracy of your information and ask for it to be updated or corrected; (v) you have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it; (vi) you have the right, under certain circumstances, to obtain the erasure of your Personal Information from us; (vii) you have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of or on pre-contractual obligations thereof.
+## GDPR에 따른 데이터 보호 권리
 
-## The right to object to processing
+귀하가 유럽 경제 지역(EEA) 거주자인 경우 특정 데이터 보호 권리가 있으며 운영자는 귀하가 귀하의 개인 정보를 수정, 수정, 삭제 또는 사용을 제한할 수 있도록 합당한 조치를 취하는 것을 목표로 합니다. 당사가 귀하에 대해 보유하고 있는 개인 정보에 대해 알고 싶고 해당 정보가 당사 시스템에서 제거되기를 원하는 경우 당사에 문의하십시오. 특정 상황에서 귀하는 다음과 같은 데이터 보호 권리를 갖습니다.
 
-Where Personal Information is processed for the public interest, in the exercise of an official authority vested in us or for the purposes of the legitimate interests pursued by us, you may object to such processing by providing a ground related to your particular situation to justify the objection.
+* 귀하는 당사가 저장하고 귀하의 개인 정보에 액세스할 수 있는 귀하의 개인 정보에 대한 액세스를 요청할 권리가 있습니다.
+* 귀하는 정확하지 않다고 생각하는 개인 정보를 수정하도록 요청할 권리가 있습니다. 또한 귀하는 불완전하다고 생각하는 개인 정보의 완성을 당사에 요청할 권리가 있습니다.
+* 귀하는 본 정책의 특정 조건 하에서 귀하의 개인 정보 삭제를 요청할 권리가 있습니다.
+* 귀하는 당사의 개인 정보 처리에 반대할 권리가 있습니다.
+* 귀하는 귀하의 개인 정보 처리에 대한 제한을 요청할 권리가 있습니다. 귀하가 귀하의 개인 정보 처리를 제한하는 경우 당사는 해당 정보를 저장할 수 있지만 더 이상 처리하지 않습니다.
+* 귀하는 구조화되고 기계가 읽을 수 있으며 일반적으로 사용되는 형식으로 귀하에 대한 정보 사본을 제공받을 권리가 있습니다.
+* 또한 운영자가 귀하의 개인 정보를 처리하는 데 동의한 경우 언제든지 동의를 철회할 권리가 있습니다.
 
-## Data protection rights under GDPR
+귀하는 당사의 개인 정보 수집 및 사용에 대해 데이터 보호 기관에 불만을 제기할 권리가 있습니다. 자세한 내용은 유럽 경제 지역(EEA)의 현지 데이터 보호 기관에 문의하십시오.
 
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights and the Operator aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Information. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us. In certain circumstances, you have the following data protection rights:
+## 캘리포니아 개인 정보 보호 권리
 
-*   You have the right to request access to your Personal Information that we store and have the ability to access your Personal Information.
-*   You have the right to request that we correct any Personal Information you believe is inaccurate. You also have the right to request us to complete the Personal Information you believe is incomplete.
-*   You have the right to request the erase your Personal Information under certain conditions of this Policy.
-*   You have the right to object to our processing of your Personal Information.
-*   You have the right to seek restrictions on the processing of your Personal Information. When you restrict the processing of your Personal Information, we may store it but will not process it further.
-*   You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
-*   You also have the right to withdraw your consent at any time where the Operator relied on your consent to process your Personal Information.
+이 정책에 설명된 권리 외에도 개인, 가족 또는 가정용 제품 또는 서비스를 얻기 위해 개인 정보(법률에 정의됨)를 제공하는 캘리포니아 거주자는 역년에 한 번 당사에 요청하고 얻을 수 있습니다. , 마케팅 용도로 다른 기업과 공유한 개인 정보(있는 경우)에 대한 정보. 해당되는 경우, 이 정보에는 개인 정보 범주와 직전 연도에 대해 그러한 개인 정보를 공유한 기업의 이름 및 주소가 포함됩니다(예: 현재 연도에 이루어진 요청은 전년도에 대한 정보를 받게 됩니다). . 이 정보를 얻으려면 저희에게 연락하십시오.
 
-You have the right to complain to a Data Protection Authority about our collection and use of your Personal Information. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+## 이러한 권리를 행사하는 방법
 
-## California privacy rights
+귀하의 권리 행사 요청은 이 문서에 제공된 연락처 세부 정보를 통해 운영자에게 전달될 수 있습니다. 이러한 요청에 응답하기 전에 신원 확인을 요청할 수 있습니다. 귀하의 요청은 귀하가 귀하가 주장하는 사람인지 또는 귀하가 그러한 사람의 권한 있는 대리인인지 확인할 수 있는 충분한 정보를 제공해야 합니다. 요청을 적절하게 이해하고 응답할 수 있도록 충분한 세부 정보를 포함해야 합니다. 당사는 먼저 귀하의 신원이나 그러한 요청을 할 권한을 확인하고 개인 정보가 귀하와 관련이 있음을 확인하지 않는 한 귀하의 요청에 응답하거나 귀하에게 개인 정보를 제공할 수 없습니다.
 
-In addition to the rights as explained in this Policy, California residents who provide Personal Information (as defined in the statute) to obtain products or services for personal, family, or household use are entitled to request and obtain from us, once a calendar year, information about the Personal Information we shared, if any, with other businesses for marketing uses. If applicable, this information would include the categories of Personal Information and the names and addresses of those businesses with which we shared such personal information for the immediately prior calendar year (e.g., requests made in the current year will receive information about the prior year). To obtain this information please contact us.
+## 어린이의 개인 정보 보호
 
-## How to exercise these rights
+우리는 18세 미만의 어린이로부터 고의로 개인 정보를 수집하지 않습니다. 18세 미만인 경우 웹사이트 및 서비스를 통해 개인 정보를 제출하지 마십시오. 우리는 부모와 법적 보호자가 자녀의 인터넷 사용을 모니터링하고 자녀가 허락 없이 웹사이트와 서비스를 통해 개인 정보를 제공하지 않도록 지시함으로써 이 정책을 시행하는 데 도움을 줄 것을 권장합니다. 18세 미만의 어린이가 웹사이트 및 서비스를 통해 당사에 개인 정보를 제공했다고 믿을 만한 이유가 있는 경우 당사에 연락하십시오. 또한 귀하가 거주하는 국가에서 귀하의 개인 정보 처리에 동의하려면 16세 이상이어야 합니다(일부 국가에서는 귀하의 부모 또는 보호자가 귀하를 대신하여 처리하도록 허용할 수 있음).
 
-Any requests to exercise your rights can be directed to the Operator through the contact details provided in this document. Please note that we may ask you to verify your identity before responding to such requests. Your request must provide sufficient information that allows us to verify that you are the person you are claiming to be or that you are the authorized representative of such person. You must include sufficient details to allow us to properly understand the request and respond to it. We cannot respond to your request or provide you with Personal Information unless we first verify your identity or authority to make such a request and confirm that the Personal Information relates to you.
+## 신호를 추적하지 않음
 
-## Privacy of children
+일부 브라우저에는 방문하는 웹사이트에 온라인 활동을 추적하고 싶지 않다는 신호를 보내는 추적 금지 기능이 통합되어 있습니다. 추적은 웹사이트와 관련하여 정보를 사용하거나 수집하는 것과 다릅니다. 이러한 목적을 위해 추적이란 웹사이트 또는 온라인 서비스를 사용하거나 방문하는 소비자가 시간이 지남에 따라 다른 웹사이트를 이동할 때 개인 식별 정보를 수집하는 것을 의미합니다. 웹사이트 및 서비스는 시간 경과에 따라 제3자 웹사이트에서 방문자를 추적하지 않습니다. 그러나 일부 제3자 사이트는 귀하에게 콘텐츠를 제공할 때 귀하의 검색 활동을 추적하여 귀하에게 제공하는 내용을 맞춤화할 수 있습니다.
 
-We do not knowingly collect any Personal Information from children under the age of 18\. If you are under the age of 18, please do not submit any Personal Information through the Website and Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through the Website and Services without their permission. If you have reason to believe that a child under the age of 18 has provided Personal Information to us through the Website and Services, please contact us. You must also be at least 16 years of age to consent to the processing of your Personal Information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+## 다른 리소스에 대한 링크
 
-## Do Not Track signals
+웹사이트 및 서비스에는 당사가 소유하거나 통제하지 않는 다른 리소스에 대한 링크가 포함되어 있습니다. 우리는 그러한 다른 res의 개인 정보 보호 관행에 대해 책임을 지지 않습니다.
 
-Some browsers incorporate a Do Not Track feature that signals to websites you visit that you do not want to have your online activity tracked. Tracking is not the same as using or collecting information in connection with a website. For these purposes, tracking refers to collecting personally identifiable information from consumers who use or visit a website or online service as they move across different websites over time. The Website and Services do not track its visitors over time and across third party websites. However, some third party sites may keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you.
+## 정보 보안
 
-## Links to other resources
+우리는 무단 액세스, 사용 또는 공개로부터 보호되는 통제되고 안전한 환경에서 컴퓨터 서버에 제공한 정보를 보호합니다. 우리는 개인 정보의 통제 및 보관 상태에서 무단 액세스, 사용, 수정 및 개인 정보 공개를 방지하기 위해 합당한 관리, 기술 및 물리적 보호 장치를 유지합니다. 그러나 인터넷이나 무선 네트워크를 통한 데이터 전송은 보장할 수 없습니다. 따라서 당사가 귀하의 개인 정보를 보호하기 위해 노력하는 동안 귀하는 (i) 당사가 통제할 수 없는 인터넷의 보안 및 개인 정보 보호 제한이 있음을 인정합니다. (ii) 귀하와 웹사이트 및 서비스 간에 교환되는 모든 정보 및 데이터의 보안, 무결성 및 개인정보는 보장될 수 없습니다. (iii) 최선의 노력에도 불구하고 그러한 정보 및 데이터는 전송 중에 제3자가 보거나 변조할 수 있습니다.
 
-The Website and Services contain links to other resources that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other resources or third parties. We encourage you to be aware when you leave the Website and Services and to read the privacy statements of each and every resource that may collect Personal Information.
+## 데이터 침해
 
-## Information security
+보안 공격 또는 사기를 포함하되 이에 국한되지 않는 외부 활동의 결과 웹 사이트 및 서비스의 보안이 손상되었거나 사용자 개인 정보가 관련 없는 제3자에게 공개되었음을 알게 된 경우 당사는 유보합니다. 조사 및 보고, 법 집행 기관에 대한 통지 및 협력을 포함하되 이에 국한되지 않는 합리적으로 적절한 조치를 취할 권리. 데이터 위반의 경우, 위반의 결과로 사용자에게 피해를 줄 합리적인 위험이 있다고 생각하거나 법에 따라 통지가 요구되는 경우 영향을 받는 개인에게 알리기 위해 합당한 노력을 기울일 것입니다. 그렇게 하면 이메일을 보내드리겠습니다.
 
-We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and the Website and Services cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third party, despite best efforts.
+## 변경 및 수정
 
-## Data breach
+당사는 재량에 따라 웹사이트 및 서비스와 관련된 본 정책 또는 약관을 수시로 수정할 수 있는 권리를 보유하며 당사가 개인 정보를 취급하는 방식에 대한 중대한 변경 사항을 귀하에게 통지할 것입니다. 그렇게 하면 웹사이트의 메인 페이지에 알림을 게시할 것입니다. 또한 당사는 귀하가 제공한 연락처 정보와 같이 당사의 재량에 따라 다른 방법으로 귀하에게 통지를 제공할 수도 있습니다. 이 정책의 업데이트된 버전은 달리 명시되지 않는 한 수정된 정책을 게시하는 즉시 발효됩니다. 수정된 정책(또는 그 당시에 지정된 기타 행위)의 발효일 이후에 웹사이트 및 서비스를 계속 사용하면 해당 변경 사항에 동의하는 것으로 간주됩니다. 그러나 당사는 귀하의 동의 없이 귀하의 개인 정보를 수집할 당시 명시된 것과 실질적으로 다른 방식으로 귀하의 개인 정보를 사용하지 않습니다.
 
-In the event we become aware that the security of the Website and Services has been compromised or users Personal Information has been disclosed to unrelated third parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do, we will send you an email.
+## 이 정책의 수락
 
-## Changes and amendments
+귀하는 이 정책을 읽었으며 모든 약관에 동의함을 인정합니다. 웹사이트 및 서비스에 액세스하고 사용함으로써 귀하는 이 정책에 동의하는 것입니다. 이 정책의 조건을 준수하는 데 동의하지 않으면 웹사이트 및 서비스에 액세스하거나 사용할 권한이 없습니다.
 
-We reserve the right to modify this Policy or its terms relating to the Website and Services from time to time in our discretion and will notify you of any material changes to the way in which we treat Personal Information. When we do, we will post a notification on the main page of the Website. We may also provide notice to you in other ways in our discretion, such as through contact information you have provided. Any updated version of this Policy will be effective immediately upon the posting of the revised Policy unless otherwise specified. Your continued use of the Website and Services after the effective date of the revised Policy (or such other act specified at that time) will constitute your consent to those changes. However, we will not, without your consent, use your Personal Information in a manner materially different than what was stated at the time your Personal Information was collected.
+## 문의하기
 
-## Acceptance of this policy
+이 정책에 대한 자세한 내용을 이해하기 위해 당사에 연락하거나 개인 권리 및 귀하의 개인 정보와 관련된 문제와 관련하여 당사에 연락하려는 경우 master@arontier.co로 이메일을 보낼 수 있습니다.
 
-You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Website and Services.
-
-## Contacting us
-
-If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to master@arontier.co
-
-This document was last updated on October 6, 2020
+이 문서는 2020년 10월 6일에 마지막으로 업데이트되었습니다.
