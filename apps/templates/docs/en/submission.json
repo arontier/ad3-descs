@@ -1,7 +1,12 @@
 {
   "3. Query Sequence": {
     "prologue": {
-      "text": "[en] Target을 선택하거나 Sequence를 입력하세요. Single sequence만 입력이 가능하며, Target을 선택하면 자동으로 Sequence를 불러옵니다."
+      "text": "Select a sequence from Target, upload FASTA file, or type a sequence directly. Only single sequence will be accepted."
+    }
+  },
+  "4. (Optional) Wild Type Sequence": {
+    "prologue": {
+      "text": "Available only if Query Sequence is specified. If Wild Type Sequence is used, Query Sequence will be interpreted as a mutant, which implies both sequence lengths must be the same."
     }
   }
 }

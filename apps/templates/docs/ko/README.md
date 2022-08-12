@@ -1,5 +1,5 @@
 # Description 
-Template Structure Screening for Protein Structure Prediction
+[ko] Template Structure Screening for Protein Structure Prediction
 # Inputs
 
 
