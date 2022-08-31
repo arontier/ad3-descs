@@ -3,8 +3,13 @@
 Autodock-GPU과 Vdock을 이용하여 500만개 이상의 small molecule에 대해서 docking 결과를 가져온다.
 
 # Inputs
+* `protein receptor` [5UOR.A_protein.pdb](https://docs.ad3.io/media/apps/dock_millions/examples/input/5UOR.A_protein.pdb)
+
 
 # Outputs
+* [vdock_screening.dock.BINDING_E.pdbqt](https://docs.ad3.io/media/apps/dock_millions/examples/input/vdock_screening.dock.BINDING_E.pdbqt) : Best ligand 3d file 
+* [vdock_screening.dock.receptor.pdb](https://docs.ad3.io/media/apps/dock_millions/examples/input/vdock_screening.dock.receptor.pdb) : Protein receptor 3d file
+* [vdock_screening.dock.report.tsv](https://docs.ad3.io/media/apps/dock_millions/examples/input/vdock_screening.dock.report.tsv) : Best ligand data
 
 # References
 
