@@ -10,8 +10,8 @@ S-Pred는 단백질 서열을 분석하여 다양한 특성을 분석하는 서�
 
 # References
 
-1.Hong, Y., Song, J., Ko, J., Lee, J. & Shin, W.-H. S-Pred: protein structural property prediction using MSA transformer. Sci Rep-uk 12, 13891 (2022).
-1.Rao, R. M. et al. MSA Transformer. doi:10.1101/2021.02.12.430858.
+1. Hong, Y., Song, J., Ko, J., Lee, J. & Shin, W.-H. S-Pred: protein structural property prediction using MSA transformer. Sci Rep-uk 12, 13891 (2022).
+1. Rao, R. M. et al. MSA Transformer. doi:10.1101/2021.02.12.430858.
 
 # License
 
