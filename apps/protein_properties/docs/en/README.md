@@ -9,3 +9,22 @@
 # Outputs
 
 # References
+
+1.Hong, Y., Song, J., Ko, J., Lee, J. & Shin, W.-H. S-Pred: protein structural property prediction using MSA transformer. Sci Rep-uk 12, 13891 (2022).
+1.Rao, R. M. et al. MSA Transformer. doi:10.1101/2021.02.12.430858.
+
+# License
+
+## S-Pred
+ The S-Pred code used for this service is owned by Arontier.
+
+* Copyright (c) Arontier, Inc.
+* https://www.arontier.co/
+
+## MSA Transformer
+
+The MSA Transformer used in S-Pred is owned by the following owners:
+
+* MIT License
+* Copyright (c) Facebook, Inc. and its affiliates.
+* Homepage : https://github.com/facebookresearch/esm
