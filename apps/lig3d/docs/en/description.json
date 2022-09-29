@@ -1,0 +1,5 @@
+{
+  "about this file": "short_description is required. If the description does not exist, it is replaced with a short_description.",
+  "short_description": "Ligand 3D Conformer generation",
+  "description": "Ligand 3D Conformer generation"
+}

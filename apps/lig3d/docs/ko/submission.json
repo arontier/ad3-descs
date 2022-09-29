@@ -10,12 +10,13 @@
         "epilogue": {
           "text": "특수문자를 쓰지 않았길 바랍니다."
         }
-      } 
+      }
     },
     "키 필드('1. Name Your Job')는 'NEW JOB' 탭에 있는 입력의 제목과 같아야 합니다.",
-    "키 필드 아레 'prologue'와 'epilogue'는 각각 제목과 입력 밑에 보여집니다.",
+    "키 필드 아래 'prologue'와 'epilogue'는 각각 제목 밑과 입력 밑에 보여집니다.",
     "'prologue'와 'epilogue' 아래 'text' 필드의 값이 실제 보이는 부가 설명입니다.",
-    "'text' 필드 값에 Markdown 문법을 사용할 수 있습니다."
+    "'text' 필드 값에 Markdown 문법을 사용할 수 있습니다.",
+    "아래 '3-2. Query Compounds'는 실제 부가 설명 렌더링을 위해 사용됩니다."
   ],
   "3-2. Query Compounds": {
     "prologue": {
