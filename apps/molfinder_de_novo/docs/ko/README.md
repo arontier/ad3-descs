@@ -1,4 +1,7 @@
 # Description 
+MolFinder를 이용하여 원하는 properties를 가진 새로운 분자 탐색합니다.
+
+
 weight model을 통해 새로운 분자의 score를 예측하며, score가 최대가 되도록 새로운 분자 생성
 
 # Inputs
