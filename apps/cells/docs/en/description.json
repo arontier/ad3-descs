@@ -1,0 +1,4 @@
+{
+	  "about this file": "short_description is required. If the description does not exist, it is replaced with a short_description. Markdown syntax is not supported.",
+	  "short_description": "Searches genomic properties of various cell lines which are used for drug discovery",
+}
