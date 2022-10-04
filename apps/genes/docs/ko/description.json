@@ -1,0 +1,4 @@
+{
+  "이 파일에 대하여": "short_description은 필수입니다. description이 없을 경우 short_description으로 대체됩니다. Markdown 문법을 사용할 수 없습니다.",
+  "short_description": "인산화 효소 유전자 및 GPCR 유전자를 포함한 유전자 정보의 검색",
+}
