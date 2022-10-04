@@ -1,0 +1,4 @@
+{
+	  "about this file": "short_description is required. If the description does not exist, it is replaced with a short_description. Markdown syntax is not supported.",
+	  "short_description": "Screening the molecules which have strong binding affinity with target protein among 5 to 50 million of molecule candidates by using molecule modeling simulation and machine learning",
+}
