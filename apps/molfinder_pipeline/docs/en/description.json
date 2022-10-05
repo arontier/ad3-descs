@@ -1,4 +1,4 @@
 {
-	  "about this file": "short_description is required. If the description does not exist, it is replaced with a short_description. Markdown syntax is not supported.",
-	  "short_description": "Generates the molecules which have strong binding affinity with target protein via Molfinder and Docking",
+  "about this file": "short_description is required. If the description does not exist, it is replaced with a short_description. Markdown syntax is not supported.",
+  "short_description": "Generates the molecules which have strong binding affinity with target protein via Molfinder and Docking"
 }
