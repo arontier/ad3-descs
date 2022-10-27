@@ -13,20 +13,15 @@ Monomer는 단백질의 서열로부터 3차원 구조를 예측하는 방법입
 * Sequence
 ```
 >MAPK14
-MSQERPTFYRQELNKTIWEVPERYQNLSPVGSGAYGSVCAAFDTKTGLRVAVKKLSRPFQSIIHAKRTYRELRLLKHMKHENVIGLLDVFTPARSLEEFNDVYLVTHLMGADLNNIVKCQKLTDDHVQFLIYQILRGLKYIHSADIIHRDLKPSNLAVNEDCELKILDFGLARHTDDEMTGYVATRWYRAPEIMLNWMHYNQTVDIWSVGCIMAELLTGRTLFPGTDHIDQLKLILRLVGTPGAELLKKISSESARNYIQSLTQMPKMNFANVFIGANPLAVDLLEKMLVLDSDKRITAAQALAHAYFAQYHDPDDEPVADPYDQSFESRDLLIDEWKSLTYDEVISFVPPPLDQEEMES
+MSQERPTFYRQELNKTIWEVPERYQNLSPVGSGAYGSVCAAFDTKTGLRV
+AVKKLSRPFQSIIHAKRTYRELRLLKHMKHENVIGLLDVFTPARSLEEFN
+DVYLVTHLMGADLNNIVKCQKLTDDHVQFLIYQILRGLKYIHSADIIHRD
+LKPSNLAVNEDCELKILDFGLARHTDDEMTGYVATRWYRAPEIMLNWMHY
+NQTVDIWSVGCIMAELLTGRTLFPGTDHIDQLKLILRLVGTPGAELLKKI
+SSESARNYIQSLTQMPKMNFANVFIGANPLAVDLLEKMLVLDSDKRITAA
+QALAHAYFAQYHDPDDEPVADPYDQSFESRDLLIDEWKSLTYDEVISFVP
+PPLDQEEMES
 ```
-
-
-# Outputs
-
-* [model_1.pdb](https://docs.ad3.io/media/apps/alphafold2_multistate/examples/output/download/model_1.pdb) : Predicted Protein Structure (RCSB PDB Format)
-* [model_1.contact.png](https://docs.ad3.io/media/apps/alphafold2_multistate/examples/output/download/model_1.contact.png) : It is a graph of the Residue-Residue Contact prediction result.
-* [model_1.contact.tsv](https://docs.ad3.io/media/apps/alphafold2_multistate/examples/output/download/model_1.contact.tsv) : Contains Residue-Residue Contact prediction results.
-* [model_all.plddt.val.tsv](https://docs.ad3.io/media/apps/alphafold2_multistate/examples/output/download/model_all.plddt.val.tsv)
-* [query.1.fa](https://docs.ad3.io/media/apps/alphafold2_multistate/examples/output/download/query.1.fa) : Protein sequence used to predict structure.
-* [query.1.pdb_hits.sto.gz](https://docs.ad3.io/media/apps/alphafold2_multistate/examples/output/download/query.1.pdb_hits.sto.gz)
-* [query.1.uniref90_hits.sto.gz](https://docs.ad3.io/media/apps/alphafold2_multistate/examples/output/download/query.1.uniref90_hits.sto.gz)
-* [query.1.uniref90_hits.txt.gz](https://docs.ad3.io/media/apps/alphafold2_multistate/examples/output/download/query.1.uniref90_hits.txt.gz)
 
 
 # References
