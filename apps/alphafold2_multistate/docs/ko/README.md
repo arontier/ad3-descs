@@ -10,6 +10,7 @@ Monomer는 단백질의 서열로부터 3차원 구조를 예측하는 방법입
 * MAPK14 [AD3XX00000152](https://www.ad3.io/pub-targets/152)
 * Conformational States
   * DFGin-BLAminus : 1wbw_A,3hvc_A,6tca_B,6tca_D,6tca_F,6tca_H,6zqs_A
+  * DFGin-BLBminus : 1a9u_A,1bl6_A,1bl7_A,1bmk_A,1di9_A,1m7q_A,1ouk_A,1ouy_A,1oz1_A,1r39_A,1r3c_A,1w7h_A,1w84_A,1yqj_A,2lgc_A,2okr_A,2okr_D,2onl_A,2onl_B,2y8o_A,2zb0_A,2zb1_A,3flq_A,3fmj_A,3fsf_A,3mpa_A,3mw1_A,3zya_A,5eta_A,5eta_B,5etf_A,5n68_A,5xyx_A,5xyy_A
 * Sequence
 ```
 >MAPK14
