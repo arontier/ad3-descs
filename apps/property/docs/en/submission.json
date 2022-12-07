@@ -1,0 +1,20 @@
+{
+  "about this file": [
+    "This file is used to define supportive description for the input fields in 'NEW JOB' tab.",
+    "The following example will be used in this explanation.",
+    {
+      "1. Name Your Job": {
+        "prologue": {
+          "text": "Special characters cannot be used."
+        },
+        "epilogue": {
+          "text": "Hope you didn't use special characters."
+        }
+      }
+    },
+    "The key field ('1. Name Your Job' above) must be the same as the title for input field in 'NEW JOB' tab.",
+    "'prologue' and 'epilogue' under the key will show below the title and below the corresponding input field respectively.",
+    "The value of 'text' field under 'prologue' and 'epilogue' is a paragraph to be shown as supportive description.",
+    "Markdown syntax is supported for the value of 'text' field."
+  ]
+}
