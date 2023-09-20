@@ -1,7 +1,7 @@
 <!-- @format -->
 
 # Description
- Calculate Moleculer Weight properties a molecule.
+ Calculate properties a molecule.
 
 |Name|Description|Unit|Range or recommended values|
 |:-:|:-:|:-:|:-:|
