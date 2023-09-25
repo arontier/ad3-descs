@@ -10,7 +10,7 @@
 | Toxicity | PAINS | Pan Assay Interference Compounds (PAINS) |Count|Less is better|
 | Toxicity | SureChEMBL | - |Count|Less is better|
 | Toxicity | MLSMR | NIH MLSMR: Excluded Functionality Filters |Count|Less is better|
-| Toxicity | INPHARMATICA | Inpharmatica: Unwanted Fragments |Count|Less is better|
+| Toxicity | Inpharmatica | Inpharmatica: Unwanted Fragments |Count|Less is better|
 | Toxicity | LINT | Pfizer: Lint procedure |Count|Less isbetter|
 | Metabolism | CYP1A2 | CYP1A2 inhibitor | - or + |- is better|
 | Metabolism | CYP2C9 | CYP2C9 inhibitor | - or + |- is better|
@@ -24,6 +24,15 @@
 | Toxicity|NEURO|Neurotoxicity|- or +|not toxic or toxic|
 
 * CYP의 경우 0-0.1(---), 0.1-0.3(--), 0.3-0.5(-), 0.5-0.7(+), 0.7-0.9(++), and 0.9-1.0(+++).
+
+## Histogram
+filters : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
+
+* Drug like : 0 count across all filters
+* Semi Drig like : 0 count across the following filters : MCF, GLAXO, BMS, PAINS, SureChEMBL
+* No Drog like : A total of 1 or more counts across all filters
+
+
 # Inputs
 * `Query Compounds` [sample.smi](https://docs.ad3.io/media/apps/property/examples/input/sample.smi)
 # Outputs
