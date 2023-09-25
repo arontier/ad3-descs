@@ -11,7 +11,7 @@
 | Toxicity | SureChEMBL | - |Count|Less is better|
 | Toxicity | MLSMR | NIH MLSMR: Excluded Functionality Filters |Count|Less is better|
 | Toxicity | Inpharmatica | Inpharmatica: Unwanted Fragments |Count|Less is better|
-| Toxicity | LINT | Pfizer: Lint procedure |Count|Less isbetter|
+| Toxicity | LINT | Pfizer: Lint procedure |Count|Less is better|
 | Metabolism | CYP1A2 | CYP1A2 inhibitor | - or + |- is better|
 | Metabolism | CYP2C9 | CYP2C9 inhibitor | - or + |- is better|
 | Metabolism | CYP2C19 | CYP2C19 inhibitor | - or + |- is better|
