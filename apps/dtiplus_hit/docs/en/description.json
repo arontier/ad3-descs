@@ -1,4 +1,0 @@
-{
-  "about this file": "short_description is required. If the description does not exist, it is replaced with a short_description. Markdown syntax is not supported.",
-  "short_description": "Searches the compounds which can be bound with protein via artificial intelligence."
-}

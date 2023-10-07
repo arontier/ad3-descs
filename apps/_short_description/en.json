@@ -1,147 +1,147 @@
 {
   "apps": {
     "admet_pro": {
-      "short_description": "Calculates absorption, distribution, metabolism, excretion, and toxicity (or ADMET) of molecules."
+      "shortDescription": "Calculates absorption, distribution, metabolism, excretion, and toxicity (or ADMET) of molecules."
     },
     "ak_scores": {
-      "short_description": "Predicts the exact binding energy between inputted target protein and ligand."
+      "shortDescription": "Predicts the exact binding energy between inputted target protein and ligand."
     },
     "ak_scores2": {
-      "short_description": "Predicts the exact binding energy between inputted target protein and ligand."
+      "shortDescription": "Predicts the exact binding energy between inputted target protein and ligand."
     },
     "alphafold2": {
-      "short_description": "Predicts the complex structures which consisted with multiple proteins."
+      "shortDescription": "Predicts the complex structures which consisted with multiple proteins."
     },
     "alphafold2_multistate": {
-      "short_description": "Predicts the structure of target protein."
+      "shortDescription": "Predicts the structure of target protein."
     },
     "cells": {
-      "short_description": "Searches genomic properties of various cell lines which are used for drug discovery."
+      "shortDescription": "Searches genomic properties of various cell lines which are used for drug discovery."
     },
-    "chemical_patents": {
-      "short_description": "Searches the patent which the target compound and its derivative were included in."
+    "chemicalpatents": {
+      "shortDescription": "Searches the patents include chemical compounds."
     },
-    "chemical_patents_db": {
-      "short_description": "Searches the patents include chemical compounds."
+    "chemicalpatents_app": {
+      "shortDescription": "Searches the patent which the target compound and its derivative were included in."
     },
     "compounds": {
-      "short_description": "Searches already studied/commercially available chemical compounds and registers them to personal library."
+      "shortDescription": "Searches already studied/commercially available chemical compounds and registers them to personal library."
     },
     "deep_comets": {
-      "short_description": "Quantifies the DNA damage in each cell from comet assay image."
-    },
-    "dock_millions": {
-      "short_description": "Screens the molecules which have strong binding affinity with target protein among 5 to 50 million of molecule candidates by using molecule modeling simulation and machine learning."
+      "shortDescription": "Quantifies the DNA damage in each cell from comet assay image."
     },
     "docking": {
-      "short_description": "Measures the binding strength between target protein and molecules by using Autodock-GPU."
+      "shortDescription": "Measures the binding strength between target protein and molecules by using Autodock-GPU."
     },
-    "dtiplus_affinity": {
-      "short_description": "Note: Don't need to write since it is retired."
+    "dock_millions": {
+      "shortDescription": "Screens the molecules which have strong binding affinity with target protein among 5 to 50 million of molecule candidates by using molecule modeling simulation and machine learning."
     },
-    "dtiplus_hit": {
-      "short_description": "Searches the compounds which can be bound with protein via artificial intelligence."
+    "dtiplus": {
+      "shortDescription": ""
     },
-    "galaxydock3": {
-      "short_description": "Note: Don't need to write since it is retired."
+    "dtiplushit": {
+      "shortDescription": "Searches the compounds which can be bound with protein via artificial intelligence."
     },
     "galaxytbm": {
-      "short_description": "Note: Don't need to write since it is retired."
+      "shortDescription": ""
+    },
+    "galaxy_dock3": {
+      "shortDescription": ""
     },
     "genes": {
-      "short_description": "Searches the information of genes including kinases genes and GPCR genes."
+      "shortDescription": "Searches the information of genes including kinases genes and GPCR genes."
     },
     "genomes": {
-      "short_description": "Searches the information of association between genes, transcriptome, and proteins."
+      "shortDescription": "Searches the information of association between genes, transcriptome, and proteins."
     },
     "lig3d": {
-      "short_description": "Generates the 3D structure of compound."
+      "shortDescription": "Generates the 3D structure of compound."
     },
     "molfinder": {
-      "short_description": "Screens the molecules which have desired properties by using MolFinder based on inputted scaffold."
+      "shortDescription": "Screens the molecules which have desired properties by using MolFinder based on inputted scaffold."
     },
     "molfinder_de_novo": {
-      "short_description": "Screens the molecules which have desired properties by using MolFinder."
+      "shortDescription": "Screens the molecules which have desired properties by using MolFinder."
     },
     "molfinder_pipeline": {
-      "short_description": "Generates the molecules which have strong binding affinity with target protein via Molfinder and Docking."
+      "shortDescription": "Generates the molecules which have strong binding affinity with target protein via Molfinder and Docking."
     },
     "mutant": {
-      "short_description": "Predicts the structure of mutated protein based on the artificial intelligence."
+      "shortDescription": "Predicts the structure of mutated protein based on the artificial intelligence."
     },
     "optimizer": {
-      "short_description": "Note: Don't need to write since it is retired."
+      "shortDescription": ""
     },
     "property": {
-      "short_description": "Calculates the properties of molecules."
-    },
-    "protein_contactmaps": {
-      "short_description": "Note: Don't need to write since it is retired."
-    },
-    "protein_features": {
-      "short_description": "Note: Don't need to write since it is retired."
-    },
-    "protein_msa": {
-      "short_description": "Note: Don't need to write since it is retired."
-    },
-    "protein_properties": {
-      "short_description": "Analyzes the structural properties such as disordered region or secondary structure by analyzing the sequence of target protein."
-    },
-    "protein_sites": {
-      "short_description": "Predicts the binding site of target protein."
-    },
-    "protein_structures": {
-      "short_description": "Note: Don't need to write since it is retired."
+      "shortDescription": "Calculates the properties of molecules."
     },
     "proteins_app": {
-      "short_description": "Note: Don't need to write since it is retired."
+      "shortDescription": ""
+    },
+    "protein_contactmaps": {
+      "shortDescription": ""
+    },
+    "protein_features": {
+      "shortDescription": ""
+    },
+    "protein_msa": {
+      "shortDescription": ""
+    },
+    "protein_property": {
+      "shortDescription": "Analyzes the structural properties such as disordered region or secondary structure by analyzing the sequence of target protein."
+    },
+    "protein_sites": {
+      "shortDescription": "Predicts the binding site of target protein."
+    },
+    "protein_structures": {
+      "shortDescription": ""
     },
     "reactions": {
-      "short_description": "Searches already studied chemical reactions."
+      "shortDescription": "Searches already studied chemical reactions."
     },
     "redesigns": {
-      "short_description": "Note: Don't need to write since it is retired."
+      "shortDescription": ""
     },
     "references": {
-      "short_description": "Searches the papers and patents."
+      "shortDescription": "Searches the papers and patents."
     },
     "retrosynthesis": {
-      "short_description": "Note: Don't need to write since it is retired."
+      "shortDescription": ""
     },
     "retrotrae": {
-      "short_description": "Predicts the precursors for synthesis of the target compound."
+      "shortDescription": "Predicts the precursors for synthesis of the target compound."
     },
     "reverse_docking": {
-      "short_description": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description."
     },
     "spica": {
-      "short_description": "Predicts the physicochemical/biological properties of target compound."
+      "shortDescription": "Predicts the physicochemical/biological properties of target compound."
     },
     "targets": {
-      "short_description": "Searches the 3D structure binding possibility of targets for drug discovery and performance of published compounds artificial intelligence models."
+      "shortDescription": "Searches the 3D structure binding possibility of targets for drug discovery and performance of published compounds artificial intelligence models."
     },
-    "templates": {
-      "short_description": "Screens the template of target protein for the prediction of target protein structure."
+    "templates_app": {
+      "shortDescription": "Screens the template of target protein for the prediction of target protein structure."
     },
     "v_dock": {
-      "short_description": "Note: Don't need to write since it is retired."
+      "shortDescription": ""
     }
   },
-  "stage": {
+  "stages": {
     "Target identification": {
-      "short_description": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description."
     },
     "Hit discovery": {
-      "short_description": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description."
     },
     "Lead optimization": {
-      "short_description": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description."
     },
     "In-silico validation": {
-      "short_description": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description."
     },
     "Tools": {
-      "short_description": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description."
     }
   }
 }

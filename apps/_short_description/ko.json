@@ -1,147 +1,147 @@
 {
   "apps": {
     "admet_pro": {
-      "short_description": "TODO: 작성할 것"
+      "shortDescription": "TODO: 작성할 것"
     },
     "ak_scores": {
-      "short_description": "단백질과 화합물 결합구조를 입력받아 정확한 결합에너지를 예측"
+      "shortDescription": "단백질과 화합물 결합구조를 입력받아 정확한 결합에너지를 예측"
     },
     "ak_scores2": {
-      "short_description": "단백질과 화합물 결합구조를 입력받아 정확한 결합에너지를 예측"
+      "shortDescription": "단백질과 화합물 결합구조를 입력받아 정확한 결합에너지를 예측"
     },
     "alphafold2": {
-      "short_description": "여러 단백질들이 이루고 있는 복합 구조체를 예측"
+      "shortDescription": "여러 단백질들이 이루고 있는 복합 구조체를 예측"
     },
     "alphafold2_multistate": {
-      "short_description": "대상 단백질 및 아미노산 서열을 입력 받아 단백질의 구조를 예측"
+      "shortDescription": "대상 단백질 및 아미노산 서열을 입력 받아 단백질의 구조를 예측"
     },
     "cells": {
-      "short_description": "신약개발에 사용되는 다양한 셀 라인의 유전체적 특성의 검색"
+      "shortDescription": "신약개발에 사용되는 다양한 셀 라인의 유전체적 특성의 검색"
     },
-    "chemical_patents": {
-      "short_description": "대상 화합물 및 유사 구조를 포함한 특허를 검색"
+    "chemicalpatents": {
+      "shortDescription": "화합물을 포함한 특허의 검색"
     },
-    "chemical_patents_db": {
-      "short_description": "화합물을 포함한 특허의 검색"
+    "chemicalpatents_app": {
+      "shortDescription": "대상 화합물 및 유사 구조를 포함한 특허를 검색"
     },
     "compounds": {
-      "short_description": "기존에 연구되거나 구입할 수 있는 화합물 정보 검색 및 나만의 라이브러리에 등록"
+      "shortDescription": "기존에 연구되거나 구입할 수 있는 화합물 정보 검색 및 나만의 라이브러리에 등록"
     },
     "deep_comets": {
-      "short_description": "Comet assay 이미지를 입력 받아 각 세포의 DNA 손상을 자동으로 정량화"
-    },
-    "dock_millions": {
-      "short_description": "분자 모델링 시뮬레이션과 머신러닝을 이용하여 500만개~5000만개의 분자 중 대상 단백질과의 결합 세기가 강한 분자를 검색"
+      "shortDescription": "Comet assay 이미지를 입력 받아 각 세포의 DNA 손상을 자동으로 정량화"
     },
     "docking": {
-      "short_description": "Autodock-GPU를 이용하여 단백질과 분자들 사이의 결합세기를 측정"
+      "shortDescription": "Autodock-GPU를 이용하여 단백질과 분자들 사이의 결합세기를 측정"
     },
-    "dtiplus_affinity": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+    "dock_millions": {
+      "shortDescription": "분자 모델링 시뮬레이션과 머신러닝을 이용하여 500만개~5000만개의 분자 중 대상 단백질과의 결합 세기가 강한 분자를 검색"
     },
-    "dtiplus_hit": {
-      "short_description": "인공지능을 이용하여 단백질과 결합가능한 화합물을 탐색"
+    "dtiplus": {
+      "shortDescription": ""
     },
-    "galaxydock3": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+    "dtiplushit": {
+      "shortDescription": "인공지능을 이용하여 단백질과 결합가능한 화합물을 탐색"
     },
     "galaxytbm": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+      "shortDescription": ""
+    },
+    "galaxy_dock3": {
+      "shortDescription": ""
     },
     "genes": {
-      "short_description": "인산화 효소 유전자 및 GPCR 유전자를 포함한 유전자 정보의 검색"
+      "shortDescription": "인산화 효소 유전자 및 GPCR 유전자를 포함한 유전자 정보의 검색"
     },
     "genomes": {
-      "short_description": "유전자와 전사체, 단백질의 연관성 정보의 검색"
+      "shortDescription": "유전자와 전사체, 단백질의 연관성 정보의 검색"
     },
     "lig3d": {
-      "short_description": "화합물의 3차원 구조를 생성"
+      "shortDescription": "화합물의 3차원 구조를 생성"
     },
     "molfinder": {
-      "short_description": "입력된 scaffold를 기반으로 MolFinder를 이용하여 원하는 properties를 가진 새로운 분자를 탐색"
+      "shortDescription": "입력된 scaffold를 기반으로 MolFinder를 이용하여 원하는 properties를 가진 새로운 분자를 탐색"
     },
     "molfinder_de_novo": {
-      "short_description": "MolFinder를 이용하여 원하는 특성들을 가진 새로운 분자를 탐색"
+      "shortDescription": "MolFinder를 이용하여 원하는 특성들을 가진 새로운 분자를 탐색"
     },
     "molfinder_pipeline": {
-      "short_description": "MolFinder와 Docking을 통해 타겟 단백질과 결합세기가 강한 분자를 찾아 생성"
+      "shortDescription": "MolFinder와 Docking을 통해 타겟 단백질과 결합세기가 강한 분자를 찾아 생성"
     },
     "mutant": {
-      "short_description": "돌연변이를 일으킨 단백질의 구조를 인공지능 기반으로 예측"
+      "shortDescription": "돌연변이를 일으킨 단백질의 구조를 인공지능 기반으로 예측"
     },
     "optimizer": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+      "shortDescription": ""
     },
     "property": {
-      "short_description": "분자들의 property를 계산"
-    },
-    "protein_contactmaps": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
-    },
-    "protein_features": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
-    },
-    "protein_msa": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
-    },
-    "protein_properties": {
-      "short_description": "단백질 서열을 분석하여 Disordered Region, Secondary Structure 등의 구조적 특성을 분석"
-    },
-    "protein_sites": {
-      "short_description": "대상 단백질의 결합 위치를 예측"
-    },
-    "protein_structures": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+      "shortDescription": "분자들의 property를 계산"
     },
     "proteins_app": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+      "shortDescription": ""
+    },
+    "protein_contactmaps": {
+      "shortDescription": ""
+    },
+    "protein_features": {
+      "shortDescription": ""
+    },
+    "protein_msa": {
+      "shortDescription": ""
+    },
+    "protein_property": {
+      "shortDescription": "단백질 서열을 분석하여 Disordered Region, Secondary Structure 등의 구조적 특성을 분석"
+    },
+    "protein_sites": {
+      "shortDescription": "대상 단백질의 결합 위치를 예측"
+    },
+    "protein_structures": {
+      "shortDescription": ""
     },
     "reactions": {
-      "short_description": "알려져있는 화합물 합성 반응의 검색"
+      "shortDescription": "알려져있는 화합물 합성 반응의 검색"
     },
     "redesigns": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+      "shortDescription": ""
     },
     "references": {
-      "short_description": "논문과 특허 정보의 검색"
+      "shortDescription": "논문과 특허 정보의 검색"
     },
     "retrosynthesis": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+      "shortDescription": ""
     },
     "retrotrae": {
-      "short_description": "대상 물질을 합성하기 위해 필요한 전구체를 예측"
+      "shortDescription": "대상 물질을 합성하기 위해 필요한 전구체를 예측"
     },
     "reverse_docking": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+      "shortDescription": "TODO: 작성할 것"
     },
     "spica": {
-      "short_description": "화합물의 다양한 물리화학적/생물학적 특성을 예측"
+      "shortDescription": "화합물의 다양한 물리화학적/생물학적 특성을 예측"
     },
     "targets": {
-      "short_description": "신약개발을 위한 표적의 3차원 구조 결합가능성과 알려져있는 화합물 인공지능 모델의 성능 등의 검색"
+      "shortDescription": "신약개발을 위한 표적의 3차원 구조 결합가능성과 알려져있는 화합물 인공지능 모델의 성능 등의 검색"
     },
-    "templates": {
-      "short_description": "단백질 구조 예측을 위한 템플릿 구조를 스크리닝"
+    "templates_app": {
+      "shortDescription": "단백질 구조 예측을 위한 템플릿 구조를 스크리닝"
     },
     "v_dock": {
-      "short_description": "Note: 은퇴하였으므로 작성할 필요없음"
+      "shortDescription": ""
     }
   },
-  "stage": {
+  "stages": {
     "Target identification": {
-      "short_description": "TODO: 작성할 것"
+      "shortDescription": "TODO: 작성할 것"
     },
     "Hit discovery": {
-      "short_description": "TODO: 작성할 것"
+      "shortDescription": "TODO: 작성할 것"
     },
     "Lead optimization": {
-      "short_description": "TODO: 작성할 것"
+      "shortDescription": "TODO: 작성할 것"
     },
     "In-silico validation": {
-      "short_description": "TODO: 작성할 것"
+      "shortDescription": "TODO: 작성할 것"
     },
     "Tools": {
-      "short_description": "TODO: 작성할 것"
+      "shortDescription": "TODO: 작성할 것"
     }
   }
 }

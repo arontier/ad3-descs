@@ -1,4 +1,0 @@
-{
-  "about this file": "short_description is required. If the description does not exist, it is replaced with a short_description. Markdown syntax is not supported.",
-  "short_description": "Screens the molecules which have desired properties by using MolFinder based on inputted scaffold."
-}
