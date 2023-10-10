@@ -28,9 +28,9 @@ Calculate ADMET a molecule.
 ## Histogram
 filters : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
 
-Druglike : 0 count across all filters
-Semi-Druglike : <= 6 counts in total across all filters
-Non-Druglike : > 6 counts in total across all filters
+* Druglike : 0 count across all filters
+* Semi-Druglike : <= 6 counts in total across all filters
+* Non-Druglike : > 6 counts in total across all filters
 # Inputs
 * `Query Compounds` [sample.smi](https://docs.ad3.io/media/apps/property/examples/input/sample.smi)
 # Outputs
