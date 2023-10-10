@@ -28,9 +28,9 @@
 ## Histogram
 filters : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
 
-* Drug like : 0 count across all filters
-* Semi Drig like : 0 count across the following filters : MCF, GLAXO, BMS, PAINS, SureChEMBL
-* No Drog like : A total of 1 or more counts across all filters
+* Drug like : 모든 필터가 0
+* Semi Drig like : 모든 필터의 합이 6 이하
+* No Drog like : 모든 필터의 합이 6 초과
 
 
 # Inputs
