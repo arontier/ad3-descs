@@ -24,6 +24,13 @@ Calculate ADMET a molecule.
 | Toxicity|NEURO|Neurotoxicity|- or +|not toxic or toxic|
 
 * 0-0.1(---), 0.1-0.3(--), 0.3-0.5(-), 0.5-0.7(+), 0.7-0.9(++), and 0.9-1.0(+++) in CYP case
+  
+## Histogram
+filters : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
+
+Druglike : 0 count across all filters
+Semi-Druglike : <= 6 counts in total across all filters
+Non-Druglike : > 6 counts in total across all filters
 # Inputs
 * `Query Compounds` [sample.smi](https://docs.ad3.io/media/apps/property/examples/input/sample.smi)
 # Outputs
