@@ -1,7 +1,7 @@
 {
   "Compounds Selection":{
     "prologue": {
-      "text": "Select a compounds from Compound Library, upload SMILES file, or type a SMILES directly."
+      "text": "**Select** a compounds from Compound Library, **upload** SMILES file, or **type** a SMILES directly."
     }
   },
   "3-2. Query Compounds": {
