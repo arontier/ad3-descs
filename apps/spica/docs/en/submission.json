@@ -1,5 +1,10 @@
 {
-  "3. Select Compound File": {
+  "Compounds Selection":{
+    "prologue": {
+      "text": "Select a compounds from Compound Library, upload SMILES file, or type a SMILES directly."
+    }
+  },
+  "3-2. Query Compounds": {
     "prologue": {
       "text": "You can **copy and paste** your compounds in SMILES format, or **draw and import** them using the editor on the right below, or **upload** files below in SMILES format containing your compounds."
     }
