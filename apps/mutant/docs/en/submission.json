@@ -1,5 +1,5 @@
 {
-  "3. Query Sequence": {
+  "Query Sequence": {
     "prologue": {
       "text": "Select a sequence from Target, upload FASTA file, or type a sequence directly. Only single sequence will be accepted."
     }
