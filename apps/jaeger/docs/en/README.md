@@ -15,8 +15,9 @@ To generate new molecules, JAEGER defines numerical search strategies to efficie
 
 # Inputs
 ```
-tsv file :  tsv file must have CANON_SMILES and have SCORE (higher is better) or BINDING_E (Docking output file) or AK_E (AKscore2 output file).
-generation smiles : The smiles in the tsv file are the starting point for molecule generation.
+TRAINGING DATA :  tsv file must have CANON_SMILES and have SCORE (higher is better) or BINDING_E (Docking output file) or AK_E (AKscore2 output file).
+RANK : Traing data의 상위 화합물을 분자 생성의 시작점으로 사용.
+SELECT SMILES : The smiles, starting point for molecule generation.(Must be smiles in the training data)
 ```
 **N.B.:** The model filters out all molecules with more than 50 atoms. 
 
