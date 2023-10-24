@@ -3,12 +3,12 @@
     "prologue": {
       "text": "The number of atoms in the molecule must not exceed **50** and the SMILES must not contain a '.'."
     }
-  }
+  },
   "4-2. Rank" : {
     "prologue" : {
      "text" : "The compounds used for generation, using the top **Rank** of the Training Data."
     }
-  }
+  },
   "4-2. Select SMILES" : {
     "prologue" : {
      "text" : "The compounds used for generation, Must enter the **SMILES** that exist in your Training Data."
