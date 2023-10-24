@@ -3,12 +3,12 @@
     "prologue": {
       "text": "분자의 Atom 갯수가 **50**개를 넘어가면 안되고 **SMILES**에 '.'이 들어가면 안됩니다."
     }
-  }
+  },
   "4-2. Rank" : {
     "prologue" : {
      "text" : "Generation에 사용되는 화합물, Training Data의 상위 **Rank**만큼 사용합니다."
     }
-  }
+  },
   "4-2. Select SMILES" : {
     "prologue" : {
      "text" : "Generation에 사용되는 화합물, Training Data에 존재하는 **SMILES**을 입력해야합니다."
