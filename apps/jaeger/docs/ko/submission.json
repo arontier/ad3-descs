@@ -1,17 +1,12 @@
 {
-  "3. Training data": {
+  "3-1. Training data": {
     "prologue": {
-      "text": "분자의 Atom 갯수가 **50**개를 넘어가면 안되고 **SMILES**에 '.'이 들어가면 안됩니다."
+      "text": "분자의 Atom 갯수가 **50**개를 넘어가면 안되고 **SMILES**에 '.'이 들어가면 안됩니다. 컬럼에는 **CANON_SMILES** 그리고 (**SCORE** 또는**BINDING_E** 또는 **AK_E**)가 있어야 합니다."
     }
   },
-  "4-2. Rank" : {
+  "3-2. Select SMILES" : {
     "prologue" : {
-     "text" : "Generation에 사용되는 화합물, Training Data의 상위 **Rank**만큼 사용합니다."
-    }
-  },
-  "4-2. Select SMILES" : {
-    "prologue" : {
-     "text" : "Generation에 사용되는 화합물, Training Data에 존재하는 **SMILES**을 입력해야합니다."
+     "text" : "생성에 사용되는 화합물 선택. 많이 선택할수록 많은 화합물이 생성됩니다."
     }
   }
 }
