@@ -1,4 +1,4 @@
 {
   "about this file": "short_description is required. If the description does not exist, it is replaced with a short_description. Markdown syntax is not supported.",
-  "short_description": "Describe Jaeger"
+  "short_description": "A molecule generation technique based on the Junction-Tree Variational Auto-Encoder (JT-VAE) method."
 }
