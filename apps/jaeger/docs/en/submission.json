@@ -1,8 +1,7 @@
 {
   "3-1. Training data": {
     "prologue": {
-      "text": "The number of atoms in the molecule must not exceed **50** and the SMILES must not contain a '.'.
-              columns must contain **CANON_SMILES** and (**SCORE** or **BINGING_E** or **AK_E**)."
+      "text": "The number of atoms in the molecule must not exceed **50** and the SMILES must not contain a '.'. columns must contain **CANON_SMILES** and (**SCORE** or **BINGING_E** or **AK_E**)."
     }
   },
   "3-2. Select SMILES" : {
