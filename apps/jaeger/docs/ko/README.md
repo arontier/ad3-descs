@@ -17,10 +17,11 @@ JAEGER는 assay 결과나 Docking 결과를 가지고 기존 분자에 대해서
 # Inputs
 ```
 TRAINGING DATA : CANON_SMILES를 반드시 가지고 SCORE (higher is better) 또는 BINDING_E (Docking output file) 또는 AK_E (AKscore2 output file)을 가지고 있어야 합니다.
-SELECT SMILES : smiles, 분자 생성의 시작점으로 사용.
+SELECT SMILES : 분자 생성의 시작점으로 사용. 많이 선택할수록 많은 화합물이 생성됩니다. (최소 10개를 선택하길 바랍니다.)
 ```
 
 
+**N.B.:** tsv파일에 **AK_E**, **BINDING_E**, **SCORE**가 동시에 있다면 한가지만 예측에 이용되며, AK_E, BINDING_E, SCORE 순으로 예측을 합니다. \
 **N.B.:** 분자의 atom 갯수가 50개가 넘어가면 filter에 걸려 들어가지 않음\
 **N.B.:** smiles에 "." 이 들어가면 안됨.
 # Outputs
