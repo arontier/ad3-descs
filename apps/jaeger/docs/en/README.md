@@ -16,10 +16,11 @@ To generate new molecules, JAEGER defines numerical search strategies to efficie
 # Inputs
 ```
 TRAINGING DATA :  tsv file must have CANON_SMILES and have SCORE (higher is better) or BINDING_E (Docking output file) or AK_E (AKscore2 output file).
-SELECT SMILES : The smiles, starting point for molecule generation.(Must be smiles in the training data)
+SELECT SMILES : Starting point for molecule generation. The more select, the more compounds will be generated. (Recommend selecting at least 10)
 ```
 
 
+**N.B.:** If **AK_E**, **SCORE**, and **BINDING_E** are present in the tsv file at the same time, only one will be trained for prediction and it will be predicted in the order of AK_E, BINDING_E, and SCORE. \
 **N.B.:** The model filters out all molecules with more than 50 atoms.  \
 **N.B.:** smiles should not have "."
 # Outputs
