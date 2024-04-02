@@ -19,16 +19,16 @@
       "shortDescription": "Predicts the antibody-antigen complex structures"
     },
     "antibodyfold_complex": {
-      "shortDescription": "Predicts the protein complex structures"
+      "shortDescription": "Predicts the protein complex structures."
     },
     "antibodyfold_pf": {
-      "shortDescription": "Predicts the monomeric protein structures"
+      "shortDescription": "Predicts the structures of proteins in their monomeric form."
     },
     "antibody_fold": {
-      "shortDescription": "Predicts the structures of antibodies that consist of both heavy and light chains"
+      "shortDescription": "Predicts the structures of antibodies that consist of both heavy and light chains."
     },
     "antibody_opt": {
-      "shortDescription": "Predicts the affinity-matured antibody chain sequences"
+      "shortDescription": "Predicts the sequences of antibody chains that have undergone affinity maturation."
     },
     "antibody_target": {
       "shortDescription": "Predicts the likelihood of interaction between an antibody and an antigne, with a probability scale ranging from 0 (indicating no binding) to 1 (indicating binding)."
@@ -112,7 +112,7 @@
       "shortDescription": ""
     },
     "protein_mpnn": {
-      "shortDescription": ""
+      "shortDescription": "Designs structure-based sequeces with a fixed backbone."
     },
     "protein_msa": {
       "shortDescription": ""
