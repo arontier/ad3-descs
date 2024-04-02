@@ -15,6 +15,27 @@
     "alphafold2_multistate": {
       "shortDescription": "Predicts the structure of target protein."
     },
+    "antibodyfold_agc": {
+      "shortDescription": ""
+    },
+    "antibodyfold_complex": {
+      "shortDescription": ""
+    },
+    "antibodyfold_pf": {
+      "shortDescription": ""
+    },
+    "antibody_fold": {
+      "shortDescription": ""
+    },
+    "antibody_opt": {
+      "shortDescription": ""
+    },
+    "antibody_target": {
+      "shortDescription": ""
+    },
+    "antigen_fold": {
+      "shortDescription": ""
+    },
     "cells": {
       "shortDescription": "Searches genomic properties of various cell lines which are used for drug discovery."
     },
@@ -41,6 +62,12 @@
     },
     "dtiplushit": {
       "shortDescription": "Searches the compounds which can be bound with protein via artificial intelligence."
+    },
+    "epitope": {
+      "shortDescription": ""
+    },
+    "epitope2": {
+      "shortDescription": ""
     },
     "galaxytbm": {
       "shortDescription": ""
@@ -82,6 +109,9 @@
       "shortDescription": ""
     },
     "protein_features": {
+      "shortDescription": ""
+    },
+    "protein_mpnn": {
       "shortDescription": ""
     },
     "protein_msa": {
