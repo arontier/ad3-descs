@@ -109,4 +109,4 @@ We reserve the right to modify this Policy or its terms relating to the Website 
 
 You acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Website and Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Website and Services.
 
-This document was last updated on October 6, 2020
+This document was last updated on October 9, 2023
