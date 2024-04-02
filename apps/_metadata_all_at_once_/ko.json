@@ -19,22 +19,22 @@
       "shortDescription": ""
     },  
     "antibodyfold_complex": {
-      "shortDescription": ""
+      "shortDescription": "항원, 항체 각각의 서열을 입력 받아 항원-항체 복합체 3차원 구조 예측"
     },  
     "antibodyfold_pf": {
       "shortDescription": ""
     },  
     "antibody_fold": {
-      "shortDescription": ""
+      "shortDescription": "항체의 중사슬과 경사슬의 서열을 입력 받아 항체 3차원 구조 예측"
     },  
     "antibody_opt": {
-      "shortDescription": ""
+      "shortDescription": "항체의 중사슬 또는 경사슬의 서열을 입력 받아 결합력이 향상된 서열 예측"
     },  
     "antibody_target": {
-      "shortDescription": ""
+      "shortDescription": "항체의 경사슬과 중사슬 서열과 항원의 서열을 입력 받아 서로 결합하는지 유무 예측"
     },  
     "antigen_fold": {
-      "shortDescription": ""
+      "shortDescription": "항원 단일 체인의 서열을 입력 받아 3차원 구조 예측"
     }, 
     "cells": {
       "shortDescription": "신약개발에 사용되는 다양한 셀 라인의 유전체적 특성의 검색"
