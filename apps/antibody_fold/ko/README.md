@@ -1,15 +1,22 @@
 # Description 
 
-앱에 대해 설명할 것
+안티바디폴딩은 Evans R J. et al의 방법[1, 2]을 활용하여 항체 3차원 구조를 예측하는 방법입니다. 항체의 중사슬과 경사슬의 서열을 입력하면 항체 3차원 구조를 예측할 수 있습니다.
 
 # Inputs
 
-입력값에 대해 서술하고 샘플 입력에 대해 링크를 걸 것
+\>Heavy_chain <br>
+EVQLVQSGPEVKKPGTSVKVSCKASGFTFMSSAVQWVRQARGQRLEWIGWIVIGSGNTNYAQKFQERVTITRDMSTSTAYMELSSLRSEDTAVYYCAAPYCSSISCNDGFDIWGQGTMVTVS <br>
+\>Light_chain <br>
+DVVMTQTPFSLPVSLGDQASISCRSSQSLVHSNGNTYLHWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDLGVYFCSQSTHVPYTFGGGTKLEIK <br>
 
 # Outputs
 
-출력값에 대해 기술할 것
+중사슬과 경사슬을 포함한 항체 3차원 구조
+
+![스크린샷, 2024-04-02 13-49-29](https://github.com/arontier/ad3-tutorials/assets/121647082/1b4fa9ab-da29-420f-9933-98bf02a45a94)
+
 
 # References
 
-참고 문헌을 나열할 것
+1. Evans, R et al. Protein complex prediction with AlphaFold-Multimer bioRxiv (2022) doi: https://doi.org/10.1101/2021.10.04.463034
+2. https://github.com/google-deepmind/alphafold/blob/main/docs/technical_note_v2.3.0.md
