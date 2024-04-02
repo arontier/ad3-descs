@@ -1,6 +1,6 @@
 # Terms of Service
 
-These terms of service ("Agreement") sets forth the general terms of service of your use of the [ad3.io](https://www.ad3.io) website ("Website" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). By accessing and using the Website and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Website and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Website and Services.
+These terms of service ("Agreement") sets forth the general terms of service of your use of the [protein.kbio.ai](https://protein.kbio.ai) website ("Website" or "Service") and any of its related products and services (collectively, "Services"). This Agreement is legally binding between you ("User", "you" or "your") and this Website operator ("Operator", "we", "us" or "our"). By accessing and using the Website and Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Agreement. If you are entering into this Agreement on behalf of a business or other legal entity, you represent that you have the authority to bind such entity to this Agreement, in which case the terms "User", "you" or "your" shall refer to such entity. If you do not have such authority, or if you do not agree with the terms of this Agreement, you must not accept this Agreement and may not access and use the Website and Services. You acknowledge that this Agreement is a contract between you and the Operator, even though it is electronic and is not physically signed by you, and it governs your use of the Website and Services.
 
 ## Accounts and membership
 
@@ -42,8 +42,4 @@ We reserve the right to modify this Agreement or its terms relating to the Websi
 
 You acknowledge that you have read this Agreement and agree to all its terms of services. By accessing and using the Website and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Website and Services.
 
-## Contacting us
-
-If you would like to contact us to understand more about this Agreement or wish to contact us concerning any matter relating to it, you may send an email to master@arontier.co
-
-This document was last updated on October 7, 2020
+This document was last updated on October 9, 2023
