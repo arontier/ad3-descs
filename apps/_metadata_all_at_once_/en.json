@@ -16,22 +16,22 @@
       "shortDescription": "Predicts the structure of target protein."
     },
     "antibodyfold_agc": {
-      "shortDescription": ""
+      "shortDescription": "Predicts the antibody-antigen complex structures"
     },
     "antibodyfold_complex": {
-      "shortDescription": "Predicts the structure of the antibody containing heavy chain and light chain"
+      "shortDescription": "Predicts the protein complex structures"
     },
     "antibodyfold_pf": {
-      "shortDescription": ""
+      "shortDescription": "Predicts the monomeric protein structures"
     },
     "antibody_fold": {
-      "shortDescription": ""
+      "shortDescription": "Predicts the structures of antibodies that consist of both heavy and light chains"
     },
     "antibody_opt": {
-      "shortDescription": ""
+      "shortDescription": "Predicts the affinity-matured antibody chain sequences"
     },
     "antibody_target": {
-      "shortDescription": ""
+      "shortDescription": "Predicts the likelihood of interaction between an antibody and an antigne, with a probability scale ranging from 0 (indicating no binding) to 1 (indicating binding)."
     },
     "antigen_fold": {
       "shortDescription": ""
