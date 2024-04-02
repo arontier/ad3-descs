@@ -16,22 +16,22 @@
       "shortDescription": "대상 단백질 및 아미노산 서열을 입력 받아 단백질의 구조를 예측"
     },
     "antibodyfold_agc": {
-      "shortDescription": ""
+      "shortDescription": "항원, 항체 서열을 입력 받아 항원-항체 복합체 구조 예측"
     },  
     "antibodyfold_complex": {
-      "shortDescription": "항원, 항체 각각의 서열을 입력 받아 항원-항체 복합체 3차원 구조 예측"
+      "shortDescription": "여러 단백질들이 이루고 있는 복합 구조체를 예측"
     },  
     "antibodyfold_pf": {
-      "shortDescription": ""
+      "shortDescription": "단일 사슬 단백질 구조 예측"
     },  
     "antibody_fold": {
-      "shortDescription": "항체의 중사슬과 경사슬의 서열을 입력 받아 항체 3차원 구조 예측"
+      "shortDescription": "항체 중사슬과 경사슬 서열을 입력 받아 항체 구조 예측"
     },  
     "antibody_opt": {
-      "shortDescription": "항체의 중사슬 또는 경사슬의 서열을 입력 받아 결합력이 향상된 서열 예측"
+      "shortDescription": "하나의 항체 사슬의 서열을 입력 받아 결합력이 향상된 서열 예측"
     },  
     "antibody_target": {
-      "shortDescription": "항체의 경사슬과 중사슬 서열과 항원의 서열을 입력 받아 서로 결합하는지 유무 예측"
+      "shortDescription": "항체 경사슬 및 중사슬 서열과 항원 서열을 입력 받아 결합 가능성을 0(결합하지 않음)과 1(결합함) 사이로 예측"
     },  
     "antigen_fold": {
       "shortDescription": "항원 단일 체인의 서열을 입력 받아 3차원 구조 예측"
@@ -112,7 +112,7 @@
       "shortDescription": ""
     },
     "protein_mpnn": {
-      "shortDescription": ""
+      "shortDescription": "단백질 골격을 고정하여 구조 기반 서열 디자인"
     },
     "protein_msa": {
       "shortDescription": ""
