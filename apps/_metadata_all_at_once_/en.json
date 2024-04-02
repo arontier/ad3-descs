@@ -19,7 +19,7 @@
       "shortDescription": ""
     },
     "antibodyfold_complex": {
-      "shortDescription": ""
+      "shortDescription": "Predicts the structure of the antibody containing heavy chain and light chain"
     },
     "antibodyfold_pf": {
       "shortDescription": ""
