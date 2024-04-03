@@ -2,6 +2,9 @@
 
 안티바티 타깃 인터엑션은 아론티어에서 개발한 항체와 항원의 결합 여부를 예측하는 모델입니다. 이 인공지능 모델은 단백질 언어모델과 트랜스포머(transformer)를 활용한 결과물[1]을 CNN으로 분석하여 항원고 항체 결합여부를 예측하며 기존 모델(AbAgIntPre)[2] 보다 더 좋은 성능을 나타냅니다. 
 
+![image (33)](https://github.com/arontier/ad3-tutorials/assets/121647082/825a376d-58ba-4178-aa58-4ff6f7e6772b)
+
+
 # Inputs
 
 1. 항체의 중사슬 서열 (fasta format)
