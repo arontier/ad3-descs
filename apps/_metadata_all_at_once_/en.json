@@ -109,7 +109,7 @@
     "optimizer": {
       "shortDescription": ""
     },
-
+'''
     "property": {
       "shortDescription": "Calculates the properties of molecules."
     },
