@@ -159,16 +159,16 @@
   },
   "stages": {
     "Target identification": {
-      "shortDescription": "TODO: 작성할 것"
+      "shortDescription": "TODO: Protein design 설명 쓸 것"
     },
     "Hit discovery": {
-      "shortDescription": "TODO: 작성할 것"
+      "shortDescription": "TODO: Antibody screening 설명 쓸 것"
     },
     "Lead optimization": {
-      "shortDescription": "TODO: 작성할 것"
+      "shortDescription": "TODO: Antibody design 설명 쓸 것"
     },
     "In-silico validation": {
-      "shortDescription": "TODO: 작성할 것"
+      "shortDescription": "TODO: Antibody optimization 설명 쓸 것"
     },
     "Tools": {
       "shortDescription": "TODO: 작성할 것"
