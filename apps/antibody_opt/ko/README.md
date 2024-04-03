@@ -20,6 +20,9 @@ CSSISCNDGFDIWGQGTMVTVS
 
 결합력이 향상된 것으로 예측되는 항체 단일 체인의 점 돌연변이 서열
 
+![스크린샷, 2024-04-03 20-36-01](https://github.com/arontier/ad3-tutorials/assets/121647082/3e9c74d6-2b3f-4f2e-bd38-022d1d1ac697)
+
+
 # References
 
 1. Hie BL et al. Efficient evolution of human antibodies from general protein language models. Nat Biotechnol. Feb 42(2):275-283 (2024) doi: 10.1038/s41587-023-01763-2
