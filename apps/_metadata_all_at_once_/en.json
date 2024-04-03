@@ -170,16 +170,16 @@
   },
   "stages": {
     "Target identification": {
-      "shortDescription": "Prediction of protein structures and their complexes, as well as structure-based sequence design for backbone-fixed protein engineering."
+      "shortDescription": "Prediction of protein structures and their complexes, as well as structure-based sequence design for backbone-fixed protein engineering"
     },
     "Hit discovery": {
-      "shortDescription": "Discovery of antibodies that target specific antigens."
+      "shortDescription": "Discovery of antibodies that target specific antigens"
     },
     "Lead optimization": {
-      "shortDescription": "Antibody and antibody-antigen complex structure prediction."
+      "shortDescription": "Antibody and antibody-antigen complex structure prediction"
     },
     "In-silico validation": {
-      "shortDescription": "Affinity maturation of antibodies."
+      "shortDescription": "Affinity maturation of antibodies"
     },
     "Tools": {
       "shortDescription": "TODO: Write the short description."
