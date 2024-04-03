@@ -4,13 +4,14 @@ Protein Folding is a method for predicting monomeric protien structures using Ju
 
 # Inputs
 \>PD_L1_4zqk <br>
-NPPTFSPALL VVTEGDNATF TCSFSNTSES FVLNWYRMSP SNQTDKLAAF PEDRSQPGQD SRFRVTQLPN GRDFHMSVVR ARRNDSGTYL CGAISLAPKA QIKESLRAEL RVTE
+NPPTFSPALLVVTEGDNATFTCSFSNTSESFVLNWYRMSPSNQTDKLAAFPEDRSQPGQDSRFRVTQLPNGRDFHMSVVRARRNDSGTYLCGAISLAPKAQIKESLRAELRVTE
 
 # Outputs
 
 The 3D structures of proteins in their monomeric form
 
-![스크린샷, 2024-04-02 13-49-29](https://github.com/arontier/ad3-tutorials/assets/121647082/73e851e3-1740-4983-bc47-4a1828336769)
+![스크린샷, 2024-04-03 12-42-28](https://github.com/arontier/ad3-tutorials/assets/121647082/20ca05aa-5489-4150-9818-32fee68d16fc)
+
 
 # References
 
