@@ -13,7 +13,7 @@ Antibody chain sequences
 
 # Outputs
 
-Point-mutated antibody chain sequences predicted as candidates with high affinity for certain antigens, assessed using a language model likelihood score 
+Outputs are point-mutated antibody chain sequences predicted as candidates with high affinity for certain antigens with a language model likelihood score. 
 
 # References
 
