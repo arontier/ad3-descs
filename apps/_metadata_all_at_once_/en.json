@@ -16,7 +16,7 @@
       "shortDescription": "Predicts the structure of target protein."
     },
     "antibodyfold_agc": {
-      "shortDescription": "Predicts the antibody-antigen complex structures"
+      "shortDescription": "Predicts the antibody-antigen complex structures."
     },
     "antibodyfold_complex": {
       "shortDescription": "Predicts the protein complex structures."
