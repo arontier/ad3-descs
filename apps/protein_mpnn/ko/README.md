@@ -5,7 +5,7 @@
 # Inputs
 
 1. 단백질 골격으로 사용할 PDB 파일 (renumbering 된 PDB 파일)
- - 아래의 내용을 복사 및 붙여넣어 input.pdb 파일로 저장하고 입력 PDB file로 사용하세요. 
+ - 아래의 내용을 복사 및 붙여넣어 다시 숫자로 색인된 input.pdb 파일로 저장하고 입력 PDB file로 사용하세요. 
 ```
 ATOM      1  N   LYS A   1      21.635  27.404 140.495  1.00  0.00           N
 ATOM      2  CA  LYS A   1      23.026  27.717 140.191  1.00  0.00           C
@@ -1621,9 +1621,13 @@ TER    2279      PHE H 765
 END
 ```
 
-2. PDB의 chain 이름
+2. PDB 파일의 사슬(Chain) 이름
+
+사슬 이름(Chain ID): A
 
 3. PDB 구조에서 디자인 할 서열의 숫자 
+
+1,2,3,4,5,6,7,8,9,10,11,12
 
 # Outputs
 
