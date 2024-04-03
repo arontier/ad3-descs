@@ -159,16 +159,16 @@
   },
   "stages": {
     "Target identification": {
-      "shortDescription": "TODO: Protein design 설명 쓸 것"
+      "shortDescription": "단백질 구조 예측 및 구조기반 서열 디자인"
     },
     "Hit discovery": {
-      "shortDescription": "TODO: Antibody screening 설명 쓸 것"
+      "shortDescription": "항원 특이적으로 결합하는 항체 발굴"
     },
     "Lead optimization": {
-      "shortDescription": "TODO: Antibody design 설명 쓸 것"
+      "shortDescription": "항체 디자인을 위한 항체 및 항원-항체 복합체 구조 예측"
     },
     "In-silico validation": {
-      "shortDescription": "TODO: Antibody optimization 설명 쓸 것"
+      "shortDescription": "항체의 결합력 향상을 위한 단일 돌연변이"
     },
     "Tools": {
       "shortDescription": "TODO: 작성할 것"
