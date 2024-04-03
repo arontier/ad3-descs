@@ -12,7 +12,7 @@ Antibody-Antigen Complex is used for predicting antibody-antigen complex 3D stru
 
 # Outputs
 
-Describe the outputs.
+Antibody-antigen complex 3D structures
 
 # References
 
