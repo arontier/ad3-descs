@@ -13,7 +13,7 @@ MSLLNKPKSEMTPEELQKREEEEFNTGPLSVLTQSVKNNTQVLINCRNNKKLLGRVKAFDRHCNMVLENVKEMWTEVPKS
 
 # Outputs
 
-Protein complex 3D structures.
+Protein complex 3D structures
 
 # References
 
