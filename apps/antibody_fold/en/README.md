@@ -1,6 +1,6 @@
 # Description 
 
-Antibody Folding is a method for predicting antibody 3D structures containing heavy chain and light chain using Evans R et al method[2,3].
+Antibody Folding is a method for predicting antibody 3D structures containing heavy chain and light chain using Evans R et al method[2,3]. Example sequences include the anti-ACE2 binding antibody described by Colton J. Bracken et al [3].
 
 # Inputs
 
@@ -19,3 +19,5 @@ Antibody 3D structures
 
 1. Evans, R et al. Protein complex prediction with AlphaFold-Multimer bioRxiv (2022) doi: https://doi.org/10.1101/2021.10.04.463034
 2. https://github.com/google-deepmind/alphafold/blob/main/docs/technical_note_v2.3.0.md
+3. Colton J Bracken et al. Bi-paratopic and multivalent VH domains block ACE2 binding and neutralize SARS-CoV-2 Nat Chem Biol
+. 17:113-121 (2021) doi: 10.1038/s41589-020-00679-1
