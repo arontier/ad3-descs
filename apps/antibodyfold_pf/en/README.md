@@ -3,9 +3,10 @@
 Protein Folding is a method for predicting monomeric protien structures using Jumper J et al method [1]. 
 
 # Inputs
-\>PD_L1_4zqk
+```
+>PD_L1_4zqk
 NPPTFSPALLVVTEGDNATFTCSFSNTSESFVLNWYRMSPSNQTDKLAAFPEDRSQPGQDSRFRVTQLPNGRDFHMSVVRARRNDSGTYLCGAISLAPKAQIKESLRAELRVTE
-
+```
 # Outputs
 
 The 3D structures of proteins in their monomeric form.
