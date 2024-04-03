@@ -1,6 +1,6 @@
 # Description 
 
-Antibody
+Antibody-Antigen Interaction, developed by Arontier Co., is used for predicting the probability of interaction between antibody and antigen. Outputs using protein language model and transfomer was used for CNN 
 
 # Inputs
 
