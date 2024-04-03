@@ -99,6 +99,7 @@
     "optimizer": {
       "shortDescription": ""
     },
+'''
     "property": {
       "shortDescription": "Calculates the properties of molecules."
     },
@@ -159,16 +160,16 @@
   },
   "stages": {
     "Target identification": {
-      "shortDescription": "TODO: Write the short description of Protein design."
+      "shortDescription": "Prediction of protein structures and their complexes, as well as structure-based sequence design for backbone-fixed protein engineering."
     },
     "Hit discovery": {
-      "shortDescription": "TODO: Write the short description of Antibody screening."
+      "shortDescription": "Discovery of antibodies that target specific antigens."
     },
     "Lead optimization": {
-      "shortDescription": "TODO: Write the short description of Antibody design."
+      "shortDescription": "Antibody and antibody-antigen complex structure prediction."
     },
     "In-silico validation": {
-      "shortDescription": "TODO: Write the short description of Antibody optimization."
+      "shortDescription": "Affinity maturation of antibodies."
     },
     "Tools": {
       "shortDescription": "TODO: Write the short description."
