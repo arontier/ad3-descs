@@ -159,16 +159,16 @@
   },
   "stages": {
     "Target identification": {
-      "shortDescription": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description of Protein design."
     },
     "Hit discovery": {
-      "shortDescription": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description of Antibody screening."
     },
     "Lead optimization": {
-      "shortDescription": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description of Antibody design."
     },
     "In-silico validation": {
-      "shortDescription": "TODO: Write the short description."
+      "shortDescription": "TODO: Write the short description of Antibody optimization."
     },
     "Tools": {
       "shortDescription": "TODO: Write the short description."
