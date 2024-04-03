@@ -13,5 +13,4 @@
 항원과 항체의 결합 여부를 0(결합하지 않음) 에서 1(결합함) 사의 확률로 예측합니다. 
 
 # References
-
-
+1. Xiaoyang Jing et al Single-sequence protein structure prediction by integrating protein language models PNAS 121:e2308788121 (2024) doi: 10.1073/pnas.2308788121
