@@ -2,7 +2,7 @@
 
 Antibody optimization is a method used to predict the sequences of antibody chains that have undergone affinity maturation, without providing the model information about the target antigen, using the method proposed by Hie et al [1].
 
-A language model with no information about specific selelction pressures can still efficiently guide antibody affinity maturation. 
+A language model, even without specific information about selection pressures, can still effectively guide antibody affinity maturation, as described in the figure below. 
 
 ![스크린샷, 2024-04-03 14-46-11](https://github.com/arontier/ad3-tutorials/assets/121647082/c052b3ad-d131-41f9-bdb3-2f0c9ab40c23)
 
