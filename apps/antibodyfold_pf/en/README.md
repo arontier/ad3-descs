@@ -16,4 +16,4 @@ The 3D structures of proteins in their monomeric form.
 # References
 
 1. Jumper, J. et al. Highly accurate protein structure prediction with AlphaFold. Nature 1–11 (2021) doi:10.1038/s41586-021-03819-2.
-2. Zak, K.M. et al. Structure of the complex of human programmed death 1, PD-1, and its ligand PD-L1. Structure Dec 1;23(12):2341-2348 (2015) doi: 10.1016/j.str.2015.09.010.
+2. Zak, K.M. et al. Structure of the complex of human programmed death 1, PD-1, and its ligand PD-L1. Structure 23(12):2341-2348 (2015) doi: 10.1016/j.str.2015.09.010.
