@@ -1,6 +1,6 @@
 # Description 
 
-Antibody-Antigen Interaction is developed by Arontier Co. for predicting the probability of interaction between antibodies and antigens. This model incorporates outputs from a protein language model and a transformer, which are then utilized in a convolutional neural network (CNN) module (ATI module) to calculate binding probabilities. It has been observed that this model outperforms the recent AbAgInterPre model, which is another antibody-antigen interaction prediction model, as described in the figure below.
+Antibody-Antigen Interaction is developed by Arontier Co. for predicting the probability of interaction between antibodies and antigens. This model incorporates outputs from a protein language model and a transformer, which are then utilized in a convolutional neural network (CNN) module (ATI module) to calculate binding probabilities, as described in the figure below. It has been observed that this model outperforms the recent AbAgInterPre model, which is another antibody-antigen interaction prediction model.
 
 ![image (35)](https://github.com/arontier/ad3-tutorials/assets/121647082/71f943c2-be1a-414f-9fee-820e5d0409f4)
 
