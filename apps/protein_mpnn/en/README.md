@@ -8,7 +8,7 @@ PROTEIN SEQUENCE DESIGN is a method for reliably predicting protein sequences fr
 
 Copy the renumbered text starting with 'ATOM' below and paste it, followed by saving it as input.pdb file.
 
-'''
+```
 ATOM      1  N   LYS A   1      21.635  27.404 140.495  1.00  0.00           N
 ATOM      2  CA  LYS A   1      23.026  27.717 140.191  1.00  0.00           C
 ATOM      3  C   LYS A   1      23.867  26.450 140.061  1.00  0.00           C
@@ -1621,7 +1621,7 @@ ATOM   1609  HE2 PHE A  97      28.975  17.531 145.696  1.00  0.00           H
 ATOM   1610  HZ  PHE A  97      26.935  16.167 145.437  1.00  0.00           H
 TER    2279      PHE H 765
 END
-'''
+```
 
 2. Chain ID of proteins.
 
