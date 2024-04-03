@@ -6,9 +6,9 @@ Antibody-Antigen Interaction is developed by Arontier Co. for predicting the pro
 
 # Inputs
 
-1. The fasta sequence of the antibody heavy chain
-2. The fasta sequence of the antibody light chain
-3. The fasta sequence of the antigen  
+1. The fasta sequence of the antibody heavy chain within 150 a.a.
+2. The fasta sequence of the antibody light chain within 150 a.a.
+3. The fasta sequence of the antigen  within 300 a.a.
 
 # Outputs
 
