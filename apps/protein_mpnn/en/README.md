@@ -7,7 +7,7 @@ PROTEIN SEQUENCE DESIGN is a method for reliably predicting protein sequences fr
 1. A renumbered PDB file containing protein structure information used for backbone-fixed sequence design.
 
 Copy the renumbered text starting with 'ATOM' below and paste it, followed by saving it as input.pdb file.
-
+'''
 ATOM      1  N   LYS A   1      21.635  27.404 140.495  1.00  0.00           N
 ATOM      2  CA  LYS A   1      23.026  27.717 140.191  1.00  0.00           C
 ATOM      3  C   LYS A   1      23.867  26.450 140.061  1.00  0.00           C
@@ -141,7 +141,7 @@ ATOM    130  SD  MET A   7      30.725  29.114 133.099  1.00  0.00           S
 ATOM    131  CE  MET A   7      29.205  28.321 132.584  1.00  0.00           C
 ATOM    132  H   MET A   7      30.630  24.494 133.199  1.00  0.00           H
 ATOM    133  HA  MET A   7      33.148  25.623 132.405  1.00  0.00           H
-ATOM    134 1HB  MET A  Copy the renumbered text starting with 'ATOM' below and paste it, followed by saving it as input.pdb file. 7      30.767  26.441 133.875  1.00  0.00           H
+ATOM    134 1HB  MET A   7      30.767  26.441 133.875  1.00  0.00           H
 ATOM    135 2HB  MET A   7      32.218  27.026 134.675  1.00  0.00           H
 ATOM    136 1HG  MET A   7      32.915  28.229 132.744  1.00  0.00           H
 ATOM    137 2HG  MET A   7      31.716  27.431 131.724  1.00  0.00           H
@@ -1620,6 +1620,7 @@ ATOM   1609  HE2 PHE A  97      28.975  17.531 145.696  1.00  0.00           H
 ATOM   1610  HZ  PHE A  97      26.935  16.167 145.437  1.00  0.00           H
 TER    2279      PHE H 765
 END
+'''
 
 2. Chain ID of proteins.
 
