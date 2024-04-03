@@ -170,7 +170,7 @@
   },
   "stages": {
     "Target identification": {
-      "shortDescription": "Prediction of protein structures and structure-based sequence design"
+      "shortDescription": "Protein structure prediction and structure-based sequence design"
     },
     "Hit discovery": {
       "shortDescription": "Discovery of antibodies that target specific antigens"
@@ -179,7 +179,7 @@
       "shortDescription": "Antibody and antibody-antigen complex structure prediction"
     },
     "In-silico validation": {
-      "shortDescription": "Affinity maturation of antibodies"
+      "shortDescription": "Point mutation of antibodies for affinity maturation"
     },
     "Tools": {
       "shortDescription": "TODO: Write the short description."
