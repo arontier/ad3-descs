@@ -1,6 +1,6 @@
 # Description 
 
-PROTEIN SEQUENCE DESIGN is a method for structure-based sequence design with backbone fixation using J. Dauparase et al [1]. We can designate specific residuces for design. 
+PROTEIN SEQUENCE DESIGN is a method for reliably predicting protein sequences from structures using J. Dauparase et al. [1]. This method allows for the designation of specific residues for design.
 
 # Inputs
 
@@ -8,6 +8,7 @@ Describe the inputs and link sample input files.
 
 # Outputs
 
+Outputs are sequences ge
 
 
 # References
