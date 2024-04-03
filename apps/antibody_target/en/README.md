@@ -23,8 +23,10 @@ GGGGVAADIGAGLADALTAPLDHKDKGLQSLTLDQSVRKNEKLKLAAQGAEKTYGNGDSLNTGKLKNDKVSRFDFIRQIE
 
 # Outputs
 
-Describe the outputs.
+1. Interaction probability
+2. Predicted epitopes ans paratopes
 
 # References
 
-Enumerate the references.
+1. Xiaoyang Jing et al Single-sequence protein structure prediction by integrating protein language models PNAS 121:e2308788121 (2024) doi: 10.1073/pnas.2308788121
+2. Yan Huang et al AbAgIntPre: A deep learning method for predicting antibody-antigen interactions based on sequence information Frontiers in Immunology 13:1053617 (2022) doi: 10.3389/fimmu.2022.1053617
