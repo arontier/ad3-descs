@@ -4,16 +4,14 @@ Protein complex is a method for predicting protein complex 3D structures using e
 
 # Inputs
 
-/>Heay_chain
+/>chain_A
 
-/>Light_chain
-
-/>antigen
+/>chian_B
 
 
 # Outputs
 
-Antibody-antigen complex 3D structures.
+Protein complex 3D structures.
 
 # References
 
