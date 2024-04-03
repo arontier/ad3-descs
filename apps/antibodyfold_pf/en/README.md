@@ -1,22 +1,18 @@
 # Description 
 
-Antibody Folding is a method for predicting antibody 3D structures containing heavy chain and light chain using Evans R et al method[2,3]. 
+Protein Folding is a method for predicting monomeric protien structures using Jumper J et al method[1]. 
 
 # Inputs
-
-\>Heavy_chain <br>
-EVQLVQSGPEVKKPGTSVKVSCKASGFTFMSSAVQWVRQARGQRLEWIGWIVIGSGNTNYAQKFQERVTITRDMSTSTAYMELSSLRSEDTAVYYCAAPYCSSISCNDGFDIWGQGTMVTVS <br>
-\>Light_chain <br>
-DVVMTQTPFSLPVSLGDQASISCRSSQSLVHSNGNTYLHWYLQKPGQSPKLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDLGVYFCSQSTHVPYTFGGGTKLEIK
+\>PD_L1_4zqk <br>
+NPPTFSPALL VVTEGDNATF TCSFSNTSES FVLNWYRMSP SNQTDKLAAF PEDRSQPGQD SRFRVTQLPN GRDFHMSVVR ARRNDSGTYL CGAISLAPKA QIKESLRAEL RVTE
 
 # Outputs
 
-Antibody 3D structures
+The 3D structures of proteins in their monomeric form
 
 ![스크린샷, 2024-04-02 13-49-29](https://github.com/arontier/ad3-tutorials/assets/121647082/73e851e3-1740-4983-bc47-4a1828336769)
 
 # References
 
 1. Jumper, J. et al. Highly accurate protein structure prediction with AlphaFold. Nature 1–11 (2021) doi:10.1038/s41586-021-03819-2.
-2. Evans, R et al. Protein complex prediction with AlphaFold-Multimer bioRxiv (2022) doi: https://doi.org/10.1101/2021.10.04.463034
-3. https://github.com/google-deepmind/alphafold/blob/main/docs/technical_note_v2.3.0.md
+2. Zak, K.M. et al. Structure of the complex of human programmed death 1, PD-1, and its ligand PD-L1. Structure Dec 1;23(12):2341-2348 (2015) doi: 10.1016/j.str.2015.09.010.
