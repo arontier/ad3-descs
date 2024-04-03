@@ -1,15 +1,18 @@
 # Description 
 
-앱에 대해 설명할 것
+프로테인 컴플렉스는 Evans et al 방법[1,2]을 활용하여 단백질 복합체 3차원 구조를 예측하는 방법입니다.  
 
 # Inputs
 
-입력값에 대해 서술하고 샘플 입력에 대해 링크를 걸 것
+/>chain_A
+
+/>chain_B
 
 # Outputs
 
-출력값에 대해 기술할 것
+단벡질 복합체 3차원 구조
 
 # References
 
-참고 문헌을 나열할 것
+1. Evans, R et al. Protein complex prediction with AlphaFold-Multimer bioRxiv (2022) doi: https://doi.org/10.1101/2021.10.04.463034
+2. https://github.com/google-deepmind/alphafold/blob/main/docs/technical_note_v2.3.0.md
