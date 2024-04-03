@@ -1,6 +1,6 @@
 # Description 
 
-프로테인 폴딩은 Jumper J. et al의 방법[1]을 활용하여 단백질 단량체 3차원 구조를 예측하는 방법입니다. 
+프로테인 폴딩은 Jumper J. et al의 방법[1]을 활용하여 단백질 단량체 3차원 구조를 예측하는 방법입니다. 아래의 예제 입력서열은 Zak K. M. et al의 PD-1 단백질 서열입니다. 
 
 # Inputs
 \>PD_L1_4zqk
