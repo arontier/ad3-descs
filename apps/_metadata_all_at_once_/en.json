@@ -170,7 +170,7 @@
   },
   "stages": {
     "Target identification": {
-      "shortDescription": "Prediction of protein structures and their complexes, as well as structure-based sequence design for backbone-fixed protein engineering"
+      "shortDescription": "Prediction of protein structures and structure-based sequence design"
     },
     "Hit discovery": {
       "shortDescription": "Discovery of antibodies that target specific antigens"
