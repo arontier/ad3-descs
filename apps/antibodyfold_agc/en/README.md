@@ -4,7 +4,11 @@ Antibody-Antigen Complex is used for predicting antibody-antigen complex 3D stru
 
 # Inputs
 
-Describe the inputs and link sample input files.
+>Heavy_Ab
+
+>Light_Ab
+
+>Antigen
 
 # Outputs
 
