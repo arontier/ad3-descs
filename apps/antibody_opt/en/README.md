@@ -20,7 +20,8 @@ CSSISCNDGFDIWGQGTMVTVS
 
 Outputs are point-mutated antibody chain sequences predicted as candidates with high affinity for certain antigens with a language model likelihood score. 
 
-![Uploading 스크린샷, 2024-04-03 20-36-01.png…]()
+![스크린샷, 2024-04-03 20-36-01](https://github.com/arontier/ad3-tutorials/assets/121647082/2b35851b-20ce-4982-a652-698acd1a5dec)
+
 
 
 # References
