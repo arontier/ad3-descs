@@ -20,7 +20,17 @@
     },
     "antibodyfold_complex": {
       "shortDescription": "Predicts the protein complex structures."
+    },    "antibodyfold_pf": {
+      "shortDescription": "Predicts the structures of proteins in their monomeric form."
     },
+    "antibody_fold": {
+      "shortDescription": "Predicts the structures of antibodies that consist of both heavy and light chains."
+    },
+    "antibody_opt": {
+      "shortDescription": "Predicts the sequences of antibody chains that have undergone affinity maturation."
+    },
+    "antibody_target": {
+      "shortDescription": "Predicts the likelihood of interaction between an antibody and an antigne, with a probability scale ranging from 0 (indicating no binding) to 1 (indicating binding)."
     "antibodyfold_pf": {
       "shortDescription": "Predicts the structures of proteins in their monomeric form."
     },
@@ -99,7 +109,7 @@
     "optimizer": {
       "shortDescription": ""
     },
-'''
+
     "property": {
       "shortDescription": "Calculates the properties of molecules."
     },
