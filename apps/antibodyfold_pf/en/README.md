@@ -1,6 +1,6 @@
 # Description 
 
-Protein Folding is a method for predicting monomeric protien structures using Jumper J et al method[1]. 
+Protein Folding is a method for predicting monomeric protien structures using Jumper J et al method [1]. 
 
 # Inputs
 \>PD_L1_4zqk <br>
@@ -8,7 +8,7 @@ NPPTFSPALLVVTEGDNATFTCSFSNTSESFVLNWYRMSPSNQTDKLAAFPEDRSQPGQDSRFRVTQLPNGRDFHMSVVR
 
 # Outputs
 
-The 3D structures of proteins in their monomeric form
+The 3D structures of proteins in their monomeric form.
 
 ![스크린샷, 2024-04-03 12-42-28](https://github.com/arontier/ad3-tutorials/assets/121647082/20ca05aa-5489-4150-9818-32fee68d16fc)
 
