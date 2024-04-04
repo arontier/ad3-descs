@@ -4,7 +4,7 @@ PROTEIN SEQUENCE DESIGN is a method for reliably predicting protein sequences fr
 
 # Inputs
 
-1. A renumbered PDB file containing protein structure information used for backbone-fixed sequence design.
+1. Download a PDB file below for backbone-fixed sequence design.
 
 - https://files.rcsb.org/download/4ZQK.pdb
 
