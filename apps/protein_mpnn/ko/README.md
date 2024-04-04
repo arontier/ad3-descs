@@ -4,9 +4,9 @@
 
 # Inputs
 
-1. 단백질 골격으로 사용할 PDB 파일 (renumbering 된 PDB 파일)
- - 아래의 내용을 복사 및 붙여넣어 다시 숫자로 색인된 input.pdb 파일로 저장하고 입력 PDB file로 사용하세요. 
+1. 단백질 골격으로 사용할 PDB 파일 
 
+- https://files.rcsb.org/download/4ZQK.pdb
 
 2. PDB 파일의 사슬(Chain) 이름
 
