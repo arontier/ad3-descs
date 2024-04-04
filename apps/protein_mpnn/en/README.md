@@ -10,11 +10,11 @@ PROTEIN SEQUENCE DESIGN is a method for reliably predicting protein sequences fr
 
 2. Chain ID of proteins.
 
-Chain ID: A
+- Chain ID: A
 
 3. Residue numbers indicating where mutation occurs. 
 
-1-97
+- 1-97
 
 # Outputs
 
