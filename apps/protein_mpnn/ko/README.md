@@ -10,11 +10,11 @@
 
 2. PDB 파일의 사슬(Chain) 이름
 
-사슬 이름(Chain ID): A
+- 사슬 이름(Chain ID): A
 
 3. PDB 구조에서 디자인 할 서열의 숫자 
 
-1-97
+- 1-97
 
 # Outputs
 
