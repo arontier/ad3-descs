@@ -6,9 +6,11 @@ PROTEIN SEQUENCE DESIGN is a method for reliably predicting protein sequences fr
 
 1. A renumbered PDB file containing protein structure information used for backbone-fixed sequence design.
 
+- https://files.rcsb.org/download/8DZ8.pdb
+
 Copy the renumbered text starting with 'ATOM' below and paste it, followed by saving it as input.pdb file.
 
-```
+```pdb
 ATOM      1  N   LYS A   1      21.635  27.404 140.495  1.00  0.00           N
 ATOM      2  CA  LYS A   1      23.026  27.717 140.191  1.00  0.00           C
 ATOM      3  C   LYS A   1      23.867  26.450 140.061  1.00  0.00           C
