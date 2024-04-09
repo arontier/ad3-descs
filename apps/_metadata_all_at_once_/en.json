@@ -45,7 +45,7 @@
       "shortDescription": "Predicts the likelihood of interaction between an antibody and an antigne, with a probability scale ranging from 0 (indicating no binding) to 1 (indicating binding)."
     },
     "antigen_fold": {
-      "shortDescription": ""
+      "shortDescription": "TODO: Write a short description."
     },
     "cells": {
       "shortDescription": "Searches genomic properties of various cell lines which are used for drug discovery."
@@ -78,7 +78,7 @@
       "shortDescription": ""
     },
     "epitope2": {
-      "shortDescription": ""
+      "shortDescription": "TODO: Write a short description."
     },
     "galaxytbm": {
       "shortDescription": ""
@@ -170,16 +170,16 @@
   },
   "stages": {
     "Target identification": {
-      "shortDescription": "Protein structure prediction and structure-based sequence design"
+      "shortDescription": "TODO: Write a short description of "
     },
     "Hit discovery": {
-      "shortDescription": "Discovery of antibodies that target specific antigens"
+      "shortDescription": "TODO: Write the short description."
     },
     "Lead optimization": {
-      "shortDescription": "Antibody and antibody-antigen complex structure prediction"
+      "shortDescription": "TODO: Write the short description."
     },
     "In-silico validation": {
-      "shortDescription": "Point mutation of antibodies for affinity maturation"
+      "shortDescription": "TODO: Write the short description."
     },
     "Tools": {
       "shortDescription": "TODO: Write the short description."
