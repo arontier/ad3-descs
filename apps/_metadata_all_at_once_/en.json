@@ -45,7 +45,7 @@
       "shortDescription": "Predicts the likelihood of interaction between an antibody and an antigne, with a probability scale ranging from 0 (indicating no binding) to 1 (indicating binding)."
     },
     "antigen_fold": {
-      "shortDescription": "TODO: Write a short description."
+      "shortDescription": "Predicts the structures of antigens in their monomeric form w/ viral MSA."
     },
     "cells": {
       "shortDescription": "Searches genomic properties of various cell lines which are used for drug discovery."
