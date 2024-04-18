@@ -1,15 +1,20 @@
 # Description 
 
-앱에 대해 설명할 것
+안티젠 폴딩은 Jumper J. et al의 방법[1]을 활용하여 단백질 단량체 3차원 구조를 예측하는 방법입니다. 아래의 예제 입력서열은 Zak K. M. et al[2]에서 사용된 PD-1 단백질 서열입니다. 
 
 # Inputs
 
-입력값에 대해 서술하고 샘플 입력에 대해 링크를 걸 것
+```fasta
+>PD_L1_4zqk
+NPPTFSPALLVVTEGDNATFTCSFSNTSESFVLNWYRMSPSNQTDKLAAFPEDRSQPGQDSRFRVTQLPN
+GRDFHMSVVRARRNDSGTYLCGAISLAPKAQIKESLRAELRVTE
+```
 
 # Outputs
 
-출력값에 대해 기술할 것
+항원 단량체 3차원 구조
 
 # References
 
-참고 문헌을 나열할 것
+1. Jumper, J. et al. Highly accurate protein structure prediction with AlphaFold. Nature 1–11 (2021) doi:10.1038/s41586-021-03819-2.
+2. Zak, K.M. et al. Structure of the complex of human programmed death 1, PD-1, and its ligand PD-L1. Structure Dec 1;23(12):2341-2348 (2015) doi: 10.1016/j.str.2015.09.010.
