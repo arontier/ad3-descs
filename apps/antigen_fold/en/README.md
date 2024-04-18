@@ -12,7 +12,7 @@ GRDFHMSVVRARRNDSGTYLCGAISLAPKAQIKESLRAELRVTE
 
 # Outputs
 
-The 3D structures of proteins in their monomeric form.
+The 3D structures of antigen proteins in their monomeric form.
 
 # References
 
