@@ -1,14 +1,14 @@
 # Description 
 
-Write the description.
+Epitope is a method to predict T cell eptiopes with virus conservation.
 
 # Inputs
 
-Describe the inputs and link sample input files.
+The input file is a PDB file containing proteins in their monomeric form. 
 
 # Outputs
 
-Describe the outputs.
+1. 
 
 # References
 
