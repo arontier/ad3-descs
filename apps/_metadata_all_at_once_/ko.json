@@ -69,6 +69,14 @@
     "dtiplushit": {
       "shortDescription": "인공지능을 이용하여 단백질과 결합가능한 화합물을 탐색"
     },
+    "frontend_only_molecule_editor": {
+      // This is for frontend developers. Do not edit if you are not one of them.
+      "ShortDescription": "화합물 구조를 직접 그리거나 외부 파일로부터 불러온 화합물 구조를 수정하여 다양한 형식으로 저장"
+    },
+    "frontend_only_protein_viewer": {
+      // This is for frontend developers. Do not edit if you are not one of them.
+      "ShortDescription": "단백질과 주변 분자의 3차원 구조를 시각화"
+    },
     "galaxytbm": {
       "shortDescription": ""
     },
