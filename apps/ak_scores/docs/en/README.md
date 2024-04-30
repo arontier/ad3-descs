@@ -4,8 +4,8 @@ Accurate prediction of the binding affinity of a protein-ligand complex is essen
 
 # Inputs
 
-* `Receptor` [MAP3K5.MULTIMODEL.protein.pdbqt](https://docs.ad3.io/media/apps/ak_scores/examples/input/MAP3K5.MULTIMODEL.protein.pdbqt)
-* `Ligand` [MAP3K5.MULTIMODEL.ligand.pdbqt](https://docs.ad3.io/media/apps/ak_scores/examples/input/MAP3K5.MULTIMODEL.ligand.pdbqt)
+- `Receptor` [MAP3K5.MULTIMODEL.protein.pdbqt](https://openapi.ad3.io/media/apps/ak_scores/examples/input/MAP3K5.MULTIMODEL.protein.pdbqt)
+- `Ligand` [MAP3K5.MULTIMODEL.ligand.pdbqt](https://openapi.ad3.io/media/apps/ak_scores/examples/input/MAP3K5.MULTIMODEL.ligand.pdbqt)
 
 # Outputs
 

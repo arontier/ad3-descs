@@ -1,5 +1,5 @@
-
 # Description
+
 분자의 ADMET에 대해서 계산합니다.
 |ADMET|Name|Description|Unit|Range or recommended values|
 |:-:|:-:|:-:|:-:|:-:|
@@ -23,19 +23,20 @@
 | Toxicity| DILI|Drug Induced Liver Injury|- or +|not toxic or toxic|
 | Toxicity|NEURO|Neurotoxicity|- or +|not toxic or toxic|
 
-* CYP의 경우 0-0.1(---), 0.1-0.3(--), 0.3-0.5(-), 0.5-0.7(+), 0.7-0.9(++), and 0.9-1.0(+++).
+- CYP의 경우 0-0.1(---), 0.1-0.3(--), 0.3-0.5(-), 0.5-0.7(+), 0.7-0.9(++), and 0.9-1.0(+++).
 
 ## Histogram
+
 filters : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
 
-* Drug like : 모든 필터가 0
-* Semi Drig like : 모든 필터의 합이 6 이하
-* No Drog like : 모든 필터의 합이 6 초과
-
+- Drug like : 모든 필터가 0
+- Semi Drig like : 모든 필터의 합이 6 이하
+- No Drog like : 모든 필터의 합이 6 초과
 
 # Inputs
-* `Query Compounds` [sample.smi](https://docs.ad3.io/media/apps/property/examples/input/sample.smi)
+
+- `Query Compounds` [sample.smi](https://openapi.ad3.io/media/apps/property/examples/input/sample.smi)
+
 # Outputs
 
 # References
-

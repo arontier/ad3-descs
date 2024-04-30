@@ -4,7 +4,7 @@ By using Autodock-GPU and Vdock, docking results are obtained for more than 5 mi
 
 # Inputs
 
-- `protein receptor` [5UOR.A_protein.pdb](https://docs.ad3.io/media/apps/dock_millions/examples/input/5UOR.A_protein.pdb)
+- `protein receptor` [5UOR.A_protein.pdb](https://openapi.ad3.io/media/apps/dock_millions/examples/input/5UOR.A_protein.pdb)
 - Number of iteration : Number of iterations of retraining for docking and machine learning
 - Initial screen data : The first docked data, a database clustered using similarity
   - NR10 : similarity < 10, approx. 6,000
@@ -17,9 +17,9 @@ By using Autodock-GPU and Vdock, docking results are obtained for more than 5 mi
 
 # Outputs
 
-- [vdock_screening.dock.BINDING_E.pdbqt](https://docs.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.BINDING_E.pdbqt) : Best ligand 3d file
-- [vdock_screening.dock.receptor.pdb](https://docs.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.receptor.pdb) : Protein receptor 3d file
-- [vdock_screening.dock.report.tsv](https://docs.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.report.tsv) : Best ligand data
+- [vdock_screening.dock.BINDING_E.pdbqt](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.BINDING_E.pdbqt) : Best ligand 3d file
+- [vdock_screening.dock.receptor.pdb](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.receptor.pdb) : Protein receptor 3d file
+- [vdock_screening.dock.report.tsv](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.report.tsv) : Best ligand data
 
 # References
 

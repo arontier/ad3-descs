@@ -4,7 +4,7 @@
 
 # Inputs
 
-- `protein receptor` [5UOR.A_protein.pdb](https://docs.ad3.io/media/apps/dock_millions/examples/input/5UOR.A_protein.pdb)
+- `protein receptor` [5UOR.A_protein.pdb](https://openapi.ad3.io/media/apps/dock_millions/examples/input/5UOR.A_protein.pdb)
 - Number of iteration : Docking 및 머신러닝의 재학습의 반복 횟수
 - Initial screen data : 첫번째 Docking 데이터이며, similarity를 이용한 clustering한 데이터 베이스
   - NR10 : similarity < 10, 약 6,000
@@ -17,9 +17,9 @@
 
 # Outputs
 
-- [vdock_screening.dock.BINDING_E.pdbqt](https://docs.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.BINDING_E.pdbqt) : Best ligand 3d file
-- [vdock_screening.dock.receptor.pdb](https://docs.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.receptor.pdb) : Protein receptor 3d file
-- [vdock_screening.dock.report.tsv](https://docs.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.report.tsv) : Best ligand data
+- [vdock_screening.dock.BINDING_E.pdbqt](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.BINDING_E.pdbqt) : Best ligand 3d file
+- [vdock_screening.dock.receptor.pdb](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.receptor.pdb) : Protein receptor 3d file
+- [vdock_screening.dock.report.tsv](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.report.tsv) : Best ligand data
 
 # References
 
