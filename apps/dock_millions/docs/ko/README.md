@@ -5,7 +5,8 @@
 # Inputs
 
 - `protein receptor` [5UOR.A_protein.pdb](https://openapi.ad3.io/media/apps/dock_millions/examples/input/5UOR.A_protein.pdb)
-- Number of iteration : Docking 및 머신러닝의 재학습의 반복 횟수
+- Site : 이전에 Site App을 이용하여 예측
+- Number of iteration : Docking 및 머신러닝 학습의 반복 횟수
 - Initial screen data : 첫번째 Docking 데이터이며, similarity를 이용한 clustering한 데이터 베이스
   - NR10 : similarity < 10, 약 6,000
   - NR15 : similarity < 15, 약 35,000
@@ -14,6 +15,12 @@
   - Mcule purchasable : Mcule사의 instock 화합물, 약 5M
   - Enamine lead-like : Enamine사의 Real Diversity set, 약 38.2M
 - Docking number of data
+  - iteration 당 Docking 되는 ligand 수 (작을 수록 시간 소요가 적고 많을 수록 정확도가 높아짐) 
+- Lipinsk's rule of five  
+  - Molecule Weight <= 500
+  - Hydrogen bond donor <= 5
+  - Hydroget bond acceptor <= 10
+  - LogP <= 5.0 
 
 # Outputs
 
