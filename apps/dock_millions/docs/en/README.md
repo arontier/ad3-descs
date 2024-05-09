@@ -5,6 +5,7 @@ By using Autodock-GPU and Vdock, docking results are obtained for more than 5 mi
 # Inputs
 
 - `protein receptor` [5UOR.A_protein.pdb](https://openapi.ad3.io/media/apps/dock_millions/examples/input/5UOR.A_protein.pdb)
+- Site : Should have predicted the binding site using the 'Site' App.
 - Number of iteration : Number of iterations of retraining for docking and machine learning
 - Initial screen data : The first docked data, a database clustered using similarity
   - NR10 : similarity < 10, approx. 6,000
@@ -14,6 +15,12 @@ By using Autodock-GPU and Vdock, docking results are obtained for more than 5 mi
   - Mcule purchasable : Mcule's instock compounds, approx. 5M
   - Enamine lead-like : Enamine's Real Diversity set, approx. 38.2M
 - Docking number of data
+  - Number of ligands docked per iteration (smaller takes less time, larger increases accuracy) 
+- Lipinsk's rule of five  
+  - Molecule Weight <= 500
+  - Hydrogen bond donor <= 5
+  - Hydroget bond acceptor <= 10
+  - LogP <= 5.0 
 
 # Outputs
 
