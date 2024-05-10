@@ -33,7 +33,8 @@
  ### V-Dock option : 
  - Method : 머신러닝 종류 선택입니다.
  - Feature : 머신러닝에 사용될 분자의 feature 종류입니다.
- 
+  
+---------------------
 # Outputs
 ## Web page
 ### Target
@@ -49,7 +50,8 @@
  - vdock_screening.dock.AK_E : 각 분자에 대한 AK-Score2에 대한 구조로 pdb파일과 sdf파일이 있습니다.
  - vdock_screening.dock.receptor.pdb : 단백질 구조 파일입니다.
  - DOCK.report.pdf : 정리된 PDF파일입니다.
-
+ 
+---------------------
 # References
 
 1. Diogo Santos-Martins, Leonardo Solis-Vasquez, Andreas F Tillack, Michel F Sanner, Andreas Koch, Stefano Forli. Accelerating AutoDock4 with GPUs and Gradient-Based Local Search J. Chem. Theory Comput. 2021, 17, 2, 1060–1073
