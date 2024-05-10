@@ -1,7 +1,8 @@
 # Description
 
  분자 도킹 예측 프로그램인 Autodock-GPU과 머신러닝을 이용한 docking score 모델인 Vdock을 이용하여 500만개에서 5000만개의 small molecule( MW :150~500 )을 단백질 대해서 docking 결과를 가져옵니다.
-
+ 
+---------------------
 # Inputs
  ### Target : 단백질 구조 
  - Public : 단백질 이름을 검색할 수 있습니다.
