@@ -1,7 +1,8 @@
 # Description
 
 By using Autodock-GPU and Vdock, docking results are obtained for more than 5 million small molecules.
-
+  
+---------------------
 # Inputs
  ### Target : Protein Structure
  - Public : Can search for protein names.
@@ -32,6 +33,8 @@ By using Autodock-GPU and Vdock, docking results are obtained for more than 5 mi
  ### V-Dock option : 
  - Method : Select a machine learning kinds.
  - Feature : The feature type of the molecule to be used for machine learning.
+
+---------------------
 # Outputs
 ## Web page
 ### Target
@@ -39,15 +42,16 @@ Explore the length and 3D structure of a protein structure.
 ### Seed docking
  - Binding energy distribution for initial screen data
  - The frequency and interaction type of the residues interacting with the molecule. 
-### Result
-It shows the structure of the molecule bound to the protein and the three binding energies (AK-Score2 Energy, Autodock Energy, and Autodock Cluster Energy).
+### Hit Candidates
+It shows the protein-bound structure and three binding energies (AK-Score2 Energy, Autodock Energy, Autodock Cluster Energy) for the top molecules based on AK-Score2 Energy.
 
 ## Download File
  - vdock_screening.dock.report.tsv : The resulting table contains UID, AK_E, BINDING_E, CLUSTER_E, and their respective RANK and CANON_SMILES.
  - vdock_screening.dock.AK_E : Structures for AK-Score2 for each molecule: a pdb file and an sdf file.
  - vdock_screening.dock.receptor.pdb : Protein structure file.
  - DOCK.report.pdf : Summary PDF file
-
+  
+---------------------
 # References
 
 1. Diogo Santos-Martins, Leonardo Solis-Vasquez, Andreas F Tillack, Michel F Sanner, Andreas Koch, Stefano Forli. Accelerating AutoDock4 with GPUs and Gradient-Based Local Search J. Chem. Theory Comput. 2021, 17, 2, 1060–1073
