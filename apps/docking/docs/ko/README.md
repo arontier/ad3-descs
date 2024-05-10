@@ -16,7 +16,7 @@ Scoring 방법으로 Autodock4와 AK-Score2를 이용합니다.
  - Residue : Site를 선택하지 않으면, 직접 Residue number를 입력 가능합니다.
    
 ### Ligand : 분자
- - Ligand : sdf 또는 pdb 또는 mol2 파일을 넣을 수 있습니다.
+ - Ligand : sdf 또는 pdb 파일을 넣을 수 있습니다.
 
    pdb는 CONECT를 포함되어야 정확한 분자 결합이 표현됩니다.
 
