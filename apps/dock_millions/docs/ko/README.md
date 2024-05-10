@@ -42,8 +42,8 @@
 ### Seed docking
  - Initial screen data에 대한 binding energy distribution
  - 분자와 interaction하는 Residue들의 빈도 수와 interaction type 
-### Result
-분자가 단백질과 결합된 구조와 3개의 binding energy (AK-Score2 Energy, Autodock Energy, Autodock Cluster Energy)를 보여주고 있습니다.
+### Hit Candidates 
+AK-Score2 Energy을 기준으로 상위의 분자들에 대한 단백질과 결합된 구조와 3개의 binding energy (AK-Score2 Energy, Autodock Energy, Autodock Cluster Energy)를 보여주고 있습니다.
 
 ## Download File
  - vdock_screening.dock.report.tsv : 결과 테이블로 UID, AK_E, BINDING_E, CLUSTER_E와 각각의 RANK, CANON_SMILES를 포함하고 있습니다.
