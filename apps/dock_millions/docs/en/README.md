@@ -3,9 +3,16 @@
 By using Autodock-GPU and Vdock, docking results are obtained for more than 5 million small molecules.
 
 # Inputs
+ ### Target : Protein Structure
+ - Public : Can search for protein names.
+   - Choose alphafold model or PDB structure
+ - private : From the TARGETS menu, select the added protein.
 
-- `protein receptor` [5UOR.A_protein.pdb](https://openapi.ad3.io/media/apps/dock_millions/examples/input/5UOR.A_protein.pdb)
-- Site : Should have predicted the binding site using the 'Site' App.
+ ### Binding Site : The center of the selected residues, where the molecules binding locate.
+ - Site : Forecast in the Site app, Select the part that will be docked.
+ - Residue : If you don't select Site, You can enter a residue number directly.
+
+ ### Screening option : 
 - Number of iteration : Number of iterations of retraining for docking and machine learning
 - Initial screen data : The first docked data, a database clustered using similarity
   - NR10 : similarity < 10, approx. 6,000
@@ -16,17 +23,30 @@ By using Autodock-GPU and Vdock, docking results are obtained for more than 5 mi
   - Enamine lead-like : Enamine's Real Diversity set, approx. 38.2M
 - Docking number of data
   - Number of ligands docked per iteration (smaller takes less time, larger increases accuracy) 
-- Lipinsk's rule of five  
+- Lipinsk's rule of five : Filter conditions for screening molecules
   - Molecule Weight <= 500
   - Hydrogen bond donor <= 5
   - Hydroget bond acceptor <= 10
   - LogP <= 5.0 
 
+ ### V-Dock option : 
+ - Method : Select a machine learning kinds.
+ - Feature : The feature type of the molecule to be used for machine learning.
 # Outputs
+## Web page
+### Target
+Explore the length and 3D structure of a protein structure.
+### Seed docking
+ - Binding energy distribution for initial screen data
+ - The frequency and interaction type of the residues interacting with the molecule. 
+### Result
+It shows the structure of the molecule bound to the protein and the three binding energies (AK-Score2 Energy, Autodock Energy, and Autodock Cluster Energy).
 
-- [vdock_screening.dock.BINDING_E.pdbqt](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.BINDING_E.pdbqt) : Best ligand 3d file
-- [vdock_screening.dock.receptor.pdb](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.receptor.pdb) : Protein receptor 3d file
-- [vdock_screening.dock.report.tsv](https://openapi.ad3.io/media/apps/dock_millions/examples/output/vdock_screening.dock.report.tsv) : Best ligand data
+## Download File
+ - vdock_screening.dock.report.tsv : The resulting table contains UID, AK_E, BINDING_E, CLUSTER_E, and their respective RANK and CANON_SMILES.
+ - vdock_screening.dock.AK_E : Structures for AK-Score2 for each molecule: a pdb file and an sdf file.
+ - vdock_screening.dock.receptor.pdb : Protein structure file.
+ - DOCK.report.pdf : Summary PDF file
 
 # References
 
