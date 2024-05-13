@@ -70,11 +70,9 @@
       "shortDescription": ""
     },
     "frontend_only_molecule_editor": {
-      // This is for frontend developers. Do not edit if you are not one of them.
       "ShortDescription": "Converts the chemical structure to various file types after drawing directly or modifying imported structure."
     },
     "frontend_only_protein_viewer": {
-      // This is for frontend developers. Do not edit if you are not one of them.
       "ShortDescription": "Visualizes the 3D conformation of protein and its nearby molecules."
     },
     "galaxytbm": {
