@@ -6,7 +6,7 @@ Molfinder-Scaffold fetches fragments from the database based on the input scaffo
 
 ### Database
  - GDB-11(179,173,826) : enumerates small organic molecules up to 11 atoms of C, N, O and F following simple chemical stability and synthetic feasibility rules.
- - Library(367,063) : Fragment database in Mcuel and Enamine
+ - Library(367,063) : Fragment database in Mcule and Enamine
  - Enamine(2,993) : Essential Fragment Library,High Fidelity Fragment Library,DSI-poised Library in Enamine. Deduplicated
  - Mini(2,025) : Mcule and Enamine's mini fragment database, compounds with 7 or fewer heavy atoms.
 
