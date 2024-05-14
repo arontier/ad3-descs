@@ -1,7 +1,7 @@
 # Description
 ### Molfinder
 Molfinder는 <b>bank</b>에 임의의 화합물들을 넣고, Score가 낮은 화합물들을 <b>seed</b>로 넣고 seed와 bank사이에서 Crossover와 Mutation을 진행하면서 새로운 화합물을 찾습니다.
-![image](https://github.com/arontier/ad3-descs/assets/98073046/d504a64b-e38a-4376-ba42-3deb2594de52)
+<img src="https://github.com/arontier/ad3-descs/assets/98073046/d504a64b-e38a-4376-ba42-3deb2594de52" width="70%" height="70%">
 
 
 ---
