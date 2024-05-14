@@ -24,7 +24,7 @@ Calculate the charge of a molecule based on its pH.
 
 |Columns|Description|etc|
 |:-:|:-:|:-:|
-|Name|이름||
+|Name|Compound name||
 |Std Acid pKa|Standardized compound's Acid pKa prediction|If lower than pH - may be charged|
 |Std Base pKa|Standardized compound's Base pKa prediction|If higher than pH + may be charged|
 |Std SMILES|Smiles in Standardized Compounds||
