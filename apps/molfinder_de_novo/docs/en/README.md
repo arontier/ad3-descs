@@ -1,7 +1,7 @@
 # Description
 ### Molfinder
 Molfinder puts random compounds into a <b>bank</b> and the lowest-scoring compounds into a <b>seed</b> and performs crossover and mutation between the seed and bank to find new compounds.
-![image](https://github.com/arontier/ad3-descs/assets/98073046/d504a64b-e38a-4376-ba42-3deb2594de52)
+<img src="https://github.com/arontier/ad3-descs/assets/98073046/d504a64b-e38a-4376-ba42-3deb2594de52" width="70%" height="70%">
 
 
 ---
