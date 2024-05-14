@@ -5,6 +5,7 @@
 Autodock-GPU to prediction the binding energy between proteins and molecules. \
 Autodock4 and AK-Score2 are used as scoring methods.
 
+---
 # Inputs
  ### Target : Protein Structure
  - Public : Can search for protein names.
@@ -20,6 +21,7 @@ Autodock4 and AK-Score2 are used as scoring methods.
 
    The pdb must include "CONECT" to ensure that the correct molecular bonds are represented.
 
+---
 # Outputs
 ## Web page
 ### Target
@@ -35,6 +37,7 @@ It shows the structure of the molecule bound to the protein and the three bindin
  - Dock.receptor.pdb : Protein structure file.
  - failed_ligand.tsv : The name and reason for the molecule that docking failed.
 
+---
 # References
 1. Diogo Santos-Martins, Leonardo Solis-Vasquez, Andreas F Tillack, Michel F Sanner, Andreas Koch, Stefano Forli. Accelerating AutoDock4 with GPUs and Gradient-Based Local Search J. Chem. Theory Comput. 2021, 17, 2, 1060–1073
 2. AK-Score: Accurate Protein-Ligand Binding Affinity Prediction Using an Ensemble of 3D-Convolutional Neural Networks. Int. J. Mol. Sci. 2020, 21(22), 8424
