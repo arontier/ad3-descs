@@ -2,7 +2,7 @@
 ### Molfinder
 Molfinder-Scaffold fetches fragments from the database based on the input scaffold and combines them with the scaffold. \
  The existing Molfinder operation only works on fragments and adds a selection that randomizes the fragments to find new compounds.
-![image](https://github.com/arontier/ad3-descs/assets/98073046/d504a64b-e38a-4376-ba42-3deb2594de52)
+<img src="https://github.com/arontier/ad3-descs/assets/98073046/d504a64b-e38a-4376-ba42-3deb2594de52" width="70%" height="70%">
 
 ### Database
  - GDB-11(179,173,826) : enumerates small organic molecules up to 11 atoms of C, N, O and F following simple chemical stability and synthetic feasibility rules.
