@@ -5,6 +5,7 @@
 Autodock-GPU를 이용하여 단백질과 분자들 사이의 결합세기를 측정합니다. \
 Scoring 방법으로 Autodock4와 AK-Score2를 이용합니다.
 
+---
 # Inputs
  ### Target : 단백질 구조 
  - Public : 단백질 이름을 검색할 수 있습니다.
@@ -20,6 +21,7 @@ Scoring 방법으로 Autodock4와 AK-Score2를 이용합니다.
 
    pdb는 CONECT를 포함되어야 정확한 분자 결합이 표현됩니다.
 
+---
 # Outputs
 ## Web page
 ### Target
@@ -34,6 +36,8 @@ Scoring 방법으로 Autodock4와 AK-Score2를 이용합니다.
  - Dock.CLUSTER_E :각 분자에 대한 autodock cluster energy에 대한 구조로 pdb파일과 sdf파일이 있습니다.
  - Dock.receptor.pdb : 단백질 구조 파일입니다.
  - failed_ligand.tsv : Docking이 실패한 분자에 대한 이름과 이유입니다.
+
+---
 # References
 1. Diogo Santos-Martins, Leonardo Solis-Vasquez, Andreas F Tillack, Michel F Sanner, Andreas Koch, Stefano Forli. Accelerating AutoDock4 with GPUs and Gradient-Based Local Search J. Chem. Theory Comput. 2021, 17, 2, 1060–1073
 2. AK-Score: Accurate Protein-Ligand Binding Affinity Prediction Using an Ensemble of 3D-Convolutional Neural Networks. Int. J. Mol. Sci. 2020, 21(22), 8424
