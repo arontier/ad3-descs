@@ -2,7 +2,7 @@
 ### Molfinder-Scaffold
 Molfinder-Scaffold는 입력된 scaffold를 기반으로 데이터베이스에 있는 fragment를 가져와 scaffold와 결합합니다. \
  기존 Molfinder의 operation이 fragment에서만 진행되며 fragment를 random으로 가져오는 selection을 추가되어 새로운 화합물을 찾습니다.
-![image](https://github.com/arontier/ad3-descs/assets/98073046/d504a64b-e38a-4376-ba42-3deb2594de52)
+<img src="https://github.com/arontier/ad3-descs/assets/98073046/d504a64b-e38a-4376-ba42-3deb2594de52" width="70%" height="70%">
 
 ### Database
  - GDB-11(179,173,826) : 간단한 화학적 안정성과 합성 가능성 규칙에 따라 C, N, O, F의 원자 11개까지의 작은 유기 분자를 열거한 database입니다.
