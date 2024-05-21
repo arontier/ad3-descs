@@ -12,8 +12,8 @@
  3가지 데이터 베이스 (RCSB PDB, AlphFold DB, Uniprot)에서 단백질 구조들를 가져왔습니다. \
  알려진 binding site는 PLIP으로 정리하고, 3가지의 binding Site 예측프로그램들 (P2Rank, Fpocket, DeeSurf)로 단백질 구조에 대해서 계산하였습니다. \
  마지막으로 binding site들을 클러스터링하여 단백질 구조와 binding site 데이터 베이스를 만들었습니다. 
-![image](https://github.com/arontier/ad3-descs/assets/98073046/dc7cad49-3733-4bc1-885b-4c7af2439b2b)
 
+<img src="https://github.com/arontier/ad3-descs/assets/98073046/dc7cad49-3733-4bc1-885b-4c7af2439b2b" width="70%" height="70%">
 
 ### Method
 * Docking : Autodock-GPU
