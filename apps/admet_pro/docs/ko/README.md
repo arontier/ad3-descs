@@ -1,6 +1,18 @@
 # Description
 
 분자의 ADMET에 대해서 계산합니다.
+
+---
+
+# Inputs
+## Query compounds
+- Drawing : 2D로 화합물을 그리고 Import drawings을 누르면 smiles로 입력됩니다.
+- Smiles : Smiles와 이름을 넣어주세요.
+
+---
+# Outputs
+## Web page
+### Summary
 |ADMET|Name|Description|Unit|Range or recommended values|
 |:-:|:-:|:-:|:-:|:-:|
 | Toxicity | MCF | Medicinal Chemistry Filter |Count|Less is better|
@@ -25,18 +37,17 @@
 
 - CYP의 경우 0-0.1(---), 0.1-0.3(--), 0.3-0.5(-), 0.5-0.7(+), 0.7-0.9(++), and 0.9-1.0(+++).
 
-## Histogram
+### Histogram
+RF_filter와 다른 나머지 ADMET의 Histogram입니다.
 
-filters : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
+RF_filter : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
 
 - Drug like : 모든 필터가 0
 - Semi Drig like : 모든 필터의 합이 6 이하
 - No Drog like : 모든 필터의 합이 6 초과
 
-# Inputs
+## Download File
+- ADMET_summary.tsv : Summary 파일입니다.
 
-- `Query Compounds` [sample.smi](https://openapi.ad3.io/media/apps/property/examples/input/sample.smi)
-
-# Outputs
 
 # References
