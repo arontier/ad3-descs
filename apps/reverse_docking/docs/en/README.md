@@ -12,7 +12,7 @@ For each compound, the score of bound proteins is normalized to a Z-score, and t
  Protein structures were imported from three databases (RCSB PDB, AlphFold DB, and Uniprot). \
  The known binding sites were organized by PLIP and calculated for the protein structure with three binding site prediction programs (P2Rank, Fpocket, DeeSurf). \
  Finally, we clustered the binding sites to create a protein structure and binding site database. 
-![image](https://github.com/arontier/ad3-descs/assets/98073046/dc7cad49-3733-4bc1-885b-4c7af2439b2b)
+<img src="https://github.com/arontier/ad3-descs/assets/98073046/dc7cad49-3733-4bc1-885b-4c7af2439b2b" width="70%" height="70%">
 
 
 ### Method
