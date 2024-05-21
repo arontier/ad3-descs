@@ -56,6 +56,10 @@ Scaffold의 Score, MW, QED, logP, Smiles
 ### Results
 각 weighted와 Score에 대한 Histogram
 
+
+## Download File
+ - MF-reuslt.tsv : Summary file
+ - MF-result.smi : Smiles file
 ---
 # References
 1. Kwon, Y.; Lee, J. MolFinder: An Evolutionary Algorithm for the Global Optimization of Molecular Properties and the Extensive Exploration of Chemical Space Using SMILES. J. Cheminform. 2021, 13 (1), 24.
