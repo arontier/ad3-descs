@@ -10,7 +10,7 @@ JAEGER는 assay 결과나 Docking 결과를 가지고 기존 분자에 대해서
 ## Ouput description
 # Inputs
 ### TRAINGING DATA
- - TSV or CSV
+ - TSV or CSV : Docking summary file or pIC50
    - head columns에 SMAILES (or CANON_SMILES), AK_E(or BINDING_E or SCORE)가 있어야 합니다.
    - AK_E, BIDNDING_E, SCORE가 같이 있다면 AK_E, BINDING_E, SCORE 순으로 우선 순위가 있습니다.
    - SCORE는 높을수록 좋음, AK_E와 BINDING_E가 낮을수록 좋습니다.
@@ -43,11 +43,11 @@ JAEGER는 assay 결과나 Docking 결과를 가지고 기존 분자에 대해서
 ## Download File
  - JG-result.tsv : Result summary file
  - JG-result.smi : Result smiles file
- - failed_generate.tsv : If you put generation smiles in, why didn't it generate with smiles?
+ - failed_generate.tsv : 생성에 사용된 Smiles 중에 실패한 Smiles들과 그 이유입니다.
 
 ---
 # References
-JAEGER :Godinez, W. J. & Ma, E. J. Novartis/JAEGER: Public. Zenodo, doi:https://doi.org/10.5281/zenodo.5794429 (2021).
+1. JAEGER :Godinez, W. J. & Ma, E. J. Novartis/JAEGER: Public. Zenodo, doi:https://doi.org/10.5281/zenodo.5794429 (2021).
 
-Junction Tree Variational Autoencoder for Molecular Graph Generation\
+2. Junction Tree Variational Autoencoder for Molecular Graph Generation\
 *Wengong Jin, Regina Barzilay, Tommi S. Jaakkola: Junction Tree Variational Autoencoder for Molecular Graph Generation. ICML 2018: 2328-2337 https://arxiv.org/abs/1802.04364
