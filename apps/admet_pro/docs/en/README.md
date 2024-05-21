@@ -1,6 +1,17 @@
 # Description
 
 Calculate ADMET a molecule.
+
+---
+# Inputs
+### Query compounds
+ - Drawing : If you draw the compound in 2D and hit Import drawings, it will be entered as smiles.
+ - Smiles : Add Smiles and name.
+
+---
+# Outputs
+## Web page
+### Summary
 |ADMET|Name|Description|Unit|Range or recommended values|
 |:-:|:-:|:-:|:-:|:-:|
 | Toxicity | MCF | Medicinal Chemistry Filter |Count|Less is better|
@@ -25,18 +36,16 @@ Calculate ADMET a molecule.
 
 - 0-0.1(---), 0.1-0.3(--), 0.3-0.5(-), 0.5-0.7(+), 0.7-0.9(++), and 0.9-1.0(+++) in CYP case
 
-## Histogram
+### Histogram
+histogram of RD_filter and another ADMET. 
 
-filters : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
+RD_filter : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LINT
 
 - Druglike : 0 count across all filters
 - Semi-Druglike : <= 6 counts in total across all filters
 - Non-Druglike : > 6 counts in total across all filters
 
-# Inputs
-
-- `Query Compounds` [sample.smi](https://openapi.ad3.io/media/apps/property/examples/input/sample.smi)
-
-# Outputs
+## Download File
+ - ADMET_summary.tsv : Summary file.
 
 # References
