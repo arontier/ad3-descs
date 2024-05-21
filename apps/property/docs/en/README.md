@@ -4,6 +4,21 @@
 
 Calculate properties a molecule.
 
+---
+
+
+# Inputs
+### Query compounds
+ - Drawing : If you draw the compound in 2D and hit Import drawings, it will be entered as smiles.
+ - Smiles : Add Smiles and name.
+
+### Apply Filter
+Select a range for the five properties and find the compounds that fit within it.
+
+---
+# Outputs
+## Web page
+### Molecule Summary
 |  Name   |                  Description                   | Unit  | Range or recommended values |
 | :-----: | :--------------------------------------------: | :---: | :-------------------------: |
 |   MW    |                Molecular weight                | g/mol |          150 ~ 650          |
@@ -17,25 +32,12 @@ Calculate properties a molecule.
 | RAScore |       Retrosynthetic accessibility score       |       |          0~1(Best)          |
 |  ESOL   |         Estimating aqueous solubility          |       |                             |
 
-Filter selects molecules with desired properties (MW, logp, HBD, HBA, TPSA) separately.
+### Histogram
+Histogram of each property.
 
-# Inputs
-
-- `Query Compounds` [sample.smi](https://openapi.ad3.io/media/apps/property/examples/input/sample.smi)
-
-# Outputs
-
-- `property_summary` [property_summary.tsv](https://openapi.ad3.io/media/apps/property/examples/output/property_summary.tsv)
-- `property_filter` [property_filter.tsv](https://openapi.ad3.io/media/apps/property/examples/output/property_filter.tsv)
-
-# Inputs
-
-- `Query Compounds` [sample.smi](https://openapi.ad3.io/media/apps/property/examples/input/sample.smi)
-
-# Outputs
-
-- `property_summary` [property_summary.tsv](https://openapi.ad3.io/media/apps/property/examples/output/property_summary.tsv)
-- `property_filter` [property_filter.tsv](https://openapi.ad3.io/media/apps/property/examples/output/property_filter.tsv)
+## Download File
+- property_summary.tsv : Summary file.
+- property_filte : Compounds that fit the fiter condition.
 
 # References
 
