@@ -36,7 +36,7 @@ Different fingerprints have different structure identification precision.
 The SMILES and 2D image of the molecule you entered.
 
 ### Search
-입력한 분자와 유사한 patent의 정보입니다.
+Information from the patent that is similar to the molecule you entered.
 
 |Name|Description|etc|
 |:-:|:-:|:-:|
