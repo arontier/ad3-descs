@@ -11,20 +11,47 @@ Different fingerprints have different structure identification precision.
 \*If the structure identification precision is high, the similarity may be low.\
 \*If the Tanimoto coefficient is too low, too many similar compounds are searched.
 
+---
 # Inputs
+### Query compounds
+ - Drawing : If you draw the compound in 2D and hit Import drawings, it will be entered as smiles.
+ - Smiles : Add Smiles and name.
 
-- `Query Compounds` [example.smi](https://openapi.ad3.io/media/apps/chemical_patents/examples/input/example.smi)
-- Model selection
-  - Extended Connectivity Fingerprint(r=2, h=1024) : ECFP
-  - Function Class Fingerprints(r=2, h=1024) : FCFP
-  - MACCS Fingerprints
-- Tanimoto coefficient : Simiarity cutoff
+### Fingerprint selection
+- Extended Connectivity Fingerprint(r=2, h=1024) : ECFP
+- Function Class Fingerprints(r=2, h=1024) : FCFP
+- MACCS Fingerprints
 
-- 추천 조합
+### Cutoff : Simiarity cutoff
+
+#### Suggested combinations
   - ECFP, 0.7
   - FCFP, 0.7
   - MACCS, 0.8
 
+---
 # Outputs
+## Web page
+### Target
+The SMILES and 2D image of the molecule you entered.
 
+### Search
+입력한 분자와 유사한 patent의 정보입니다.
+
+|Name|Description|etc|
+|:-:|:-:|:-:|
+|Query|SMILES and 2D images of the input molecules||
+|Compound|SMILES and 2D images of compounds similar to the query.||
+|Similarity|Calculated Tanimoto coefficient||
+|AD3 Patent id|Patent information stored in AD3||
+|Patent Country|Patent country code||
+|Patent id|Patent number|Integration with Google patents||
+|Patent Title|Patent name||
+|Patent year|patent filing year||
+
+## Download file
+- PS.summary.tsv : Summary file.
+- PS.exact.tsv : Compounds with a similarity of 1.
+
+---
 # References
