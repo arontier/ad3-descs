@@ -11,12 +11,12 @@ The Compound generation utilizes RDKit's ETKDGv3 method. [1][2]
  - SMILES : Type SMILES directly or insert a <b>.smi, .smi.gz</b> file. 
  - Well-known format : Insert a <b>.pdb,.mol2,.sdf</b> file in a format that supports two or three dimensions.
 
-### Query Compounds : 포멧이 SMILES인 경우
+### Query Compounds : If the format is SMILES
  - File : Insert a file with a file format of <b>.smi, .smi.gz</b>. 
  - Drawing : If you draw the compound in 2D and hit Import drawings, it will be entered as smiles.
  - Smiles : Add Smiles and name.
 
-### Select File : 포멧이 Well-known formats인 경우
+### Select File : If the format is Well-known
 Insert a file with a file format of <b>.pdb, .mol2, .sdf</b>. 
 
 ---
