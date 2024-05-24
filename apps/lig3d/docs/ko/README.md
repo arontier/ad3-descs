@@ -9,14 +9,13 @@ Lig3D는 화합물의 1차원 혹은 2차원 정보를 입력받아 Docking에 �
  - SMILES : SMILES를 직접 입력하거나 <b>.smi, .smi.gz</b> 파일을 넣습니다. 
  - Well-known format : 2차원 또는 3차원을 지원하는 포멧인 <b>.pdb,.mol2,.sdf</b> 파일을 넣습니다.
 
-* 예시) [AD3XX00000152.MAPK14.activities.smi](AD3XX00000152.MAPK14.activities.smi)
-
 ### Query Compounds : 포멧이 SMILES인 경우
+ - File : 파일 포멧이 <b>.smi, .smi.gz</b>인 파일을 넣습니다. 
  - Drawing : 2D로 화합물을 그리고 Import drawings을 누르면 smiles로 입력됩니다.
  - Smiles : Smiles와 이름을 넣어주세요.
 
 ### Select File : 포멧이 Well-known formats인 경우
-<b>.pdb,.mol2,.sdf</b> 파일을 넣으면 됩니다.
+파일 포멧이 <b>.pdb,.mol2,.sdf</b>인 파일을 넣으면 됩니다.
 
 ---
 # Outputs
@@ -41,12 +40,6 @@ Lig3D는 화합물의 1차원 혹은 2차원 정보를 입력받아 Docking에 �
  - GNSS.conformers.pdb : 화합물들의 3D 구조입니다.
  - GNSS.conformers.sdf : 화합물들의 3D 구조입니다.
  - GNSS.conformers.mol2 : 화합물들의 3D 구조입니다.
-
- 예시
-* [GNSS.conformers.tsv](GNSS.conformers.tsv)
-* [GNSS.conformers.pdb](GNSS.conformers.pdb)
-* [GNSS.conformers.sdf](GNSS.conformers.sdf)
-* [GNSS.conformers.mol2](GNSS.conformers.mol2)
 
 ---
 # References
