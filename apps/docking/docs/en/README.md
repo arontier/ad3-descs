@@ -16,7 +16,7 @@ Autodock4 and AK-Score2 are used as scoring methods.
  - Site : Forecast in the Site app, Select the part that will be docked.
  - Residue : If you don't select Site, You can enter a residue number directly.
    
-### Ligand : 분자
+### Ligand : Compounds
  - Ligand : Put an SDF or PDB file.
 
    The pdb must include "CONECT" to ensure that the correct molecular bonds are represented.
