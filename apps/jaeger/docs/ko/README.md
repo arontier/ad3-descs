@@ -1,10 +1,12 @@
 # Description
 
-JT-VAE Generative Modeling (JAEGER)는 소분자 생성을 위한 deep generation 입니다. JAEGER는 Junction-Tree Variational Auto-Encoder (JT-VAE) method을 기반으로 화학적 유효성을 유지한며 분자를 생성합니다.
+JTGEN은 소분자 생성을 위한 deep generation 입니다. JTGEN는 Junction-Tree Variational Auto-Encoder (JT-VAE) method을 기반으로 화학적 유효성을 유지한며 분자를 생성합니다.
 
-JAEGER는 assay 결과나 Docking 결과를 가지고 기존 분자에 대해서 훈련합니다. 훈련 중에 잠재공간(고차원)의 매핑하는 방법을 배우고 잠재공간에서 다시 분자로 해독하는 방법을 배웁니다.
+새로운 분자를 만들 떄 효율적으로 잠재 공간을 탐색하기 위해 검색 전략을 정의합니다. JTGEN는 잠재공간 탐색과 active 예측모델을 결합하여 새로운 분자를 생성하고 최적화 합니다.
+1. JTGEN는 assay 결과나 Docking 결과를 가지고 기존 분자에 대해서 훈련합니다.
+2. 훈련 중에 잠재공간(고차원)의 매핑하는 방법을 배우고 잠재공간에서 다시 분자로 해독하는 방법을 배웁니다.
+3. 잠재공간을 탐색하여 새로운 분자를 생성합니다.
 
-새로운 분자를 만들 떄 효율적으로 잠재 공간을 탐색하기 위해 검색 전략을 정의합니다. JAEGER는 잠재공간 탐색과 active 예측모델을 결합하여 새로운 분자를 생성하고 최적화 합니다.
 
 ---
 ## Ouput description
