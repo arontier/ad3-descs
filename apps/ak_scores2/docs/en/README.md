@@ -9,7 +9,7 @@ Calculates AK-Score2 energy given protein and compound structures.
    - Choose alphafold model or PDB structure
  - private : From the TARGETS menu, select the added protein.
 
-### Ligand : 분자 (pdb)
+### Ligand : Compounds (pdb)
 Insert a 3D structure file of the molecule that is binding to the protein.
 
    The pdb must include "CONECT" to ensure that the correct molecular bonds are represented.
