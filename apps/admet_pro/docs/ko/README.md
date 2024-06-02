@@ -30,7 +30,7 @@
 | Metabolism | CYP2D6 | CYP2D6 inhibitor | - or + |- is better|
 | Metabolism | CYP3A4 | CYP3A4 inhibitor | - or + |- is better|
 |Distribution| BBB | Blood-brain barrier Pennetration | - or + |not pass or pass|
-| Toxicity | AGONIST| androgen receptor agonist | - or +| not agonist or agonist|
+| Toxicity | AGONIST| androgen receptor(AR) agonist | - or +| not agonist or agonist|
 | Toxicity| hERG | Cardiotoxicity|- or +| not toxic or toxic|
 | Toxicity| DILI|Drug Induced Liver Injury|- or +|not toxic or toxic|
 | Toxicity|NEURO|Neurotoxicity|- or +|not toxic or toxic|
@@ -51,3 +51,6 @@ RF_filter : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LIN
 
 
 # References
+1. Shaker, B., Lee, J., Lee, Y., Yu, M. S., Lee, H. M., Lee, E., et al. A machine learning-based quantitative model (LogBB_Pred) to predict the blood–brain barrier permeability (logBB value) of drug compounds Bioinformatics 39 (10), btad577. 2023
+2. Yu MS, Lee J, Lee Y, Na D (2020) 2-D chemical structure image-based in silico model to predict agonist activity for androgen receptor. BMC Bioinform 21(5):245
+3. Lee, J.; Yu, M.-S.; Na, D. DILI-Stk: An Ensemble Model for the Prediction of Drug-induced Liver Injury of Drug Candidates. Curr. Bioinf. 2022, 17, 296– 303,
