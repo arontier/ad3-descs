@@ -49,3 +49,6 @@ RD_filter : MCF, GLAXO, DUNDEE, BMS, PAINS, SureChEMBL, MLSMR, Inpharmarica, LIN
  - ADMET_summary.tsv : Summary file.
 
 # References
+1. Shaker, B., Lee, J., Lee, Y., Yu, M. S., Lee, H. M., Lee, E., et al. A machine learning-based quantitative model (LogBB_Pred) to predict the blood–brain barrier permeability (logBB value) of drug compounds Bioinformatics 39 (10), btad577. 2023
+2. Yu MS, Lee J, Lee Y, Na D (2020) 2-D chemical structure image-based in silico model to predict agonist activity for androgen receptor. BMC Bioinform 21(5):245
+3. Lee, J.; Yu, M.-S.; Na, D. DILI-Stk: An Ensemble Model for the Prediction of Drug-induced Liver Injury of Drug Candidates. Curr. Bioinf. 2022, 17, 296– 303,
