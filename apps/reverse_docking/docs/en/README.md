@@ -43,11 +43,15 @@ Find compounds in the ZINC20 Database that have a similarity of 0.8 or higher an
 It shows the structure of the top proteins and molecules based on their Z-Score Energy and AK-Score2 Energy.
 
 
+
 ## Download File
- - vdock_screening.dock.report.tsv : The resulting table contains UID, AK_E, BINDING_E, CLUSTER_E, and their respective RANK and CANON_SMILES.
- - vdock_screening.dock.AK_E : There are two structures for AK-Score2 for each molecule: a pdb file and an sdf file.
- - vdock_screening.dock.receptor.pdb : Protein structure file
- - DOCK.report.pdf : Summary PDF file
+ - Reverse_Dock.target.tsv : Information about the Target you entered.
+ - Reverse_Dock.summary.tsv : The resulting table is UNIPROT_ID, POCKET_ID, GENE_NAME, LIG_ID, AK_E.
+ - Reverse_Dock.zscore.tsv : UNIRPOT_ID, the average of zscore and zscore, and the rank of zscore.
+ - zscore_pdbs.tgz : A compressed file containing the structures of the compounds that bind to the parent protein.
+ - {name}.report.pdf : PDF file
+ - {name}.report.xlsx : Excel file
+ - failed_ligands.tsv : Compounds that failed to dock and why.
  
 ---------------------
 
