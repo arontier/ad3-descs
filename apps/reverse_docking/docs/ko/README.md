@@ -44,11 +44,13 @@ Z-Score Energy을 기준으로 상위의 단백질들과 분자들이 결합된 
 
 
 ## Download File
- - vdock_screening.dock.report.tsv : 결과 테이블로 UID, AK_E, BINDING_E, CLUSTER_E와 각각의 RANK, CANON_SMILES를 포함하고 있습니다.
- - vdock_screening.dock.AK_E : 각 분자에 대한 AK-Score2에 대한 구조로 pdb파일과 sdf파일이 있습니다.
- - vdock_screening.dock.receptor.pdb : 단백질 구조 파일입니다.
- - DOCK.report.pdf : 정리된 PDF파일입니다.
- 
+ - Reverse_Dock.target.tsv : 입력한 Target에 대한 정보입니다.
+ - Reverse_Dock.summary.tsv : 결과 테이블로 UNIPROT_ID, POCKET_ID, GENE_NAME, LIG_ID, AK_E가 있습니다.
+ - Reverse_Dock.zscore.tsv : UNIRPOT_ID와 zscore의 평균 그리고 zscore의 순위가 있습니다.
+ - zscore_pdbs.tgz : 상위의 단백질과 결합하고 있는 화합물들의 구조들이 들어있는 압축파일입니다.
+ - {name}.report.pdf : 정리된 PDF파일입니다.
+ - {name}.report.xlsx : 정리된 excel파일입니다.
+ - failed_ligands.tsv : Docking에 실패한 화합물과 이유입니다.
 ---------------------
 
 # References
@@ -60,4 +62,4 @@ Z-Score Energy을 기준으로 상위의 단백질들과 분자들이 결합된 
 6. Guilloux V.L., Schmidtke P., Tuffery P. Fpocket: an open source platform for ligand pocket detection. BMC Bioinformatics. 2009; 10:168.
 7. Mylonas, S. K., Axenopoulos, A. & Daras, P. DeepSurf: a surface-based deep learning approach for the prediction of ligand binding sites on proteins. Bioinformatics 37, 1681–1690 (2021).
 8. Diogo Santos-Martins, Leonardo Solis-Vasquez, Andreas F Tillack, Michel F Sanner, Andreas Koch, Stefano Forli. Accelerating AutoDock4 with GPUs and Gradient-Based Local Search J. Chem. Theory Comput. 2021, 17, 2, 1060–1073
-9. Kwon Y, Shin WH, Ko J, Lee J. AK-Score: Accurate Protein-Ligand Binding Affinity Prediction Using an Ensemble of 3D-Convolutional Neural Networks. Int. J. Mol. Sci. 2020, 21(22), 8424
+9. Kwon Y, Shin WH, Ko J, Lee J. AK-Score: Accurate Protein-Ligand Binding Affinity Predㅑiction Using an Ensemble of 3D-Convolutional Neural Networks. Int. J. Mol. Sci. 2020, 21(22), 8424
