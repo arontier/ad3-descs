@@ -22,7 +22,7 @@ Select a range for the five properties and find the compounds that fit within it
 |  Name   |                  Description                   | Unit  | Range or recommended values |
 | :-----: | :--------------------------------------------: | :---: | :-------------------------: |
 |   MW    |                Molecular weight                | g/mol |          150 ~ 650          |
-|  logP   |       octanol/water parition coefficient       |       |           -5 ~ 5            |
+|  logP   |       octanol/water partition coefficient       |       |           -5 ~ 5            |
 |   HBD   |              Hydrogen bond Donor               |       |             <5              |
 |   HBA   |             Hydrogen bond Acceptor             |       |             <10             |
 |  TPSA   |         Topological polar surface area         |   Å   |            <140             |
