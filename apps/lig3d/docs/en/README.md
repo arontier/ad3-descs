@@ -28,7 +28,7 @@ Shows the 3D structure of the compound.
 |Name|Description|etc|
 |:-:|:-:|:-:|
 |Name|Compounds name|If no name is provided, it will be Ligand_[number].|
-|Isomer Id|ID of the created isomer|Generate all isomers that can be generated.|
+|Isomer Id|ID of the created isomer||
 |InChiKey|A simplified version of the International Chemical Identifier(InChi).||
 |Energy|The lower the energy in ETKDGv3, the more stable the structure.||
 |Canonical SMILES|Canonical SMILES||
