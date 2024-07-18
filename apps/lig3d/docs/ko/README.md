@@ -26,7 +26,7 @@ Lig3D는 화합물의 1차원 혹은 2차원 정보를 입력받아 Docking에 �
 |Name|Description|etc|
 |:-:|:-:|:-:|
 |Name|화합물의 이름|이름을 안넣어줬다면 Ligand_number가 됩니다.|
-|Isomer Id|생성된 Isomer의 ID|생성 될 수 있는 isomer를 모두 생성합니다.|
+|Isomer Id|생성된 구조의 Isomer ID||
 |InChiKey|국제화학식별자(InChi)의 간략화된 버전입니다.||
 |Energy|ETKDGv3의 에너지로 낮을 수록 안정된 구조입니다.||
 |Canonical SMILES|SMILES의 표준상태입니다.||
