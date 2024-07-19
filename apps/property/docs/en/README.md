@@ -27,7 +27,7 @@ Select a range for the five properties and find the compounds that fit within it
 |   HBA   |             Hydrogen bond Acceptor             |       |             <10             |
 |  TPSA   |         Topological polar surface area         |   Å   |            <140             |
 |   QED   |    Quantifying the chemical beauty of drugs    |       |          0~1(Best)          |
-| SAScore |         synthetic accessibility score          |       |         (Best)0~10          |
+| SAScore |         synthetic accessibility score          |       |         (Best)1~10          |
 |  SYBA   | Bayesian estimation of synthetic accessibility |       |       -100~100(best)        |
 | RAScore |       Retrosynthetic accessibility score       |       |          0~1(Best)          |
 |  ESOL   |         Estimating aqueous solubility          |       |                             |
