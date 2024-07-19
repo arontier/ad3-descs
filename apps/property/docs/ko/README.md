@@ -22,9 +22,9 @@
 |:-:|:-:|:-:|:-:|
 |MW|화합물 무게|g/mol|150 ~ 650|
 |logP|극성 용매(물)와 비극송 용매(옥탄올) 사이의 물질 분포 계수||-5 ~ 5|
-|HBD|수소결합 H Donor||<5|
-|HBA|수소결합 H Acceptor||<10|
-|TPSA|토폴로지 극성 표면적|Å|<140|
+|HBD|수소 결합 주개(Hydrogen bond donor)||<5|
+|HBA|수소 결합 받개 (Hydrogen bond acceptor)||<10|
+|TPSA|토폴로지 극성 표면|Å|<140|
 |QED|약물 유사성 정량화||0~1(Best)|
 |SAScore|합성 가능성 예측||(Best)0~10|
 |SYBA|합성 접근성에 대한 베이지안 추정||-100~100(best)|
