@@ -26,7 +26,7 @@
 |HBA|수소 결합 받개 (Hydrogen bond acceptor)||<10|
 |TPSA|토폴로지 극성 표면|Å|<140|
 |QED|약물 유사성 정량화||0~1(Best)|
-|SAScore|합성 가능성 예측||(Best)0~10|
+|SAScore|합성 가능성 예측||(Best)1~10|
 |SYBA|합성 접근성에 대한 베이지안 추정||-100~100(best)|
 |RAScore|역합성 가능성 예측||0~1(Best)|
 |ESOL|예상 용해도|||
